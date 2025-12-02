@@ -124,6 +124,34 @@
                 ]
             },
             {
+                "defaultTitleName": "Site Engineer - Mechanical (Pipeline)",
+                "skills": [
+                    "Pipeline Hydraulics",
+                    "Stress Analysis (CAESAR II)",
+                    "QA/QC Procedures",
+                    "Contractor Supervision",
+                    "Regulatory Compliance",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Rigging Superintendent",
                 "skills": [
                     "Rigging Superintendent",
@@ -637,6 +665,34 @@
                 "defaultTitleName": "Client Coordinator",
                 "skills": [
                     "Client Coordinator",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Win PCS Coordinator",
+                "skills": [
+                    "Plant Control System (PCS) Proficiency",
+                    "SCADA/DCS Operation",
+                    "Alarm Management",
+                    "System Validation",
+                    "Inter-Departmental Liaison",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",
@@ -9412,6 +9468,30 @@
         "defaultCategoryDesc": "marble, cement spray",
         "titles": [
             {
+                "defaultTitleName": "Mason",
+                "skills": [
+                    "Interlock Mason",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Interlock Mason",
                 "skills": [
                     "Interlock Mason",
@@ -12939,6 +13019,30 @@
         "defaultCategoryName": "Painter Blaster",
         "defaultCategoryDesc": "roller brush, spray, grit",
         "titles": [
+            {
+                "defaultTitleName": "Painter",
+                "skills": [
+                    "Painter",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
             {
                 "defaultTitleName": "Interior Decors Painter",
                 "skills": [
@@ -16546,6 +16650,30 @@
         "defaultCategoryDesc": "furniture, sofa, woodwork",
         "titles": [
             {
+                "defaultTitleName": "Carpenter",
+                "skills": [
+                    "Joinery Foreman",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Joinery Foreman",
                 "skills": [
                     "Joinery Foreman",
@@ -18026,6 +18154,37 @@
                 "skills": [
                     "HVAC Mechanical Technician",
                     "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "3 Face AC Mechanic Split",
+                "skills": [
+                    "Installation",
+                    "Maintenance",
+                    "Troubleshooting",
+                    "Repairs",
+                    "Refrigerant Handling",
+                    "Upgrading Systems",
+                    "Commercial and Industrial Work",
+                    "Customer Service",
+                    "Safety Compliance",
                     "Teamwork",
                     "Problem Solving",
                     "Leadership",
@@ -23206,6 +23365,35 @@
                 ]
             },
             {
+                "defaultTitleName": "Senior Pharmaceutical Machine Operator",
+                "skills": [
+                    "cGMP Compliance",
+                    "Aseptic/Sterilization Techniques",
+                    "Machine Calibration & Setup",
+                    "Troubleshooting",
+                    "SOP Adherence",
+                    "Critical Thinking",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Pharmacy Picker",
                 "skills": [
                     "Pharmacy Picker",
@@ -27454,6 +27642,34 @@
                 ]
             },
             {
+                "defaultTitleName": "AC Grill Fabricator",
+                "skills": [
+                    "Industrial Welding (TIG/MIG)",
+                    "Blueprint/Isometrics Reading",
+                    "Pipe Bending/Cutting/Threading",
+                    "Fitting and Alignment",
+                    "Material Handling (Steel, Exotic Alloys)",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Fire Damper Fabricator",
                 "skills": [
                     "Fire Damper Fabricator",
@@ -28735,6 +28951,34 @@
                 "defaultTitleName": "Fabric Technical Designer",
                 "skills": [
                     "Fabric Technical Designer",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Coat Maker",
+                "skills": [
+                    "Pattern Interpretation",
+                    "Industrial Sewing (Lockstitch/Overlock)",
+                    "Fabric Tension Control",
+                    "Lining Insertion",
+                    "Garment Finishing",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",
@@ -30760,7 +31004,7 @@
                 ]
             },
             {
-                "defaultTitleName": "General Labour   Helper",
+                "defaultTitleName": "General Labour Helper",
                 "skills": [
                     "General Labour   Helper",
                     "Communication",
@@ -30811,6 +31055,30 @@
                 "defaultTitleName": "Store Helper",
                 "skills": [
                     "Store Helper",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Helper",
+                "skills": [
+                    "Helping Nar",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",
@@ -31006,6 +31274,34 @@
                 ]
             },
             {
+                "defaultTitleName": "Coat Cutter",
+                "skills": [
+                    "Pattern Layout Optimization",
+                    "Automated/Manual Cutting",
+                    "Material Inspection",
+                    "Blade Maintenance",
+                    "Waste Reduction",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Hand Embroidery Worker",
                 "skills": [
                     "Hand Embroidery Worker",
@@ -31033,6 +31329,34 @@
                 "defaultTitleName": "Womens Tailor",
                 "skills": [
                     "Womens Tailor",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Thob Tailor",
+                "skills": [
+                    "Thob/Thawb Construction",
+                    "Custom Fitting/Alterations",
+                    "Hand Stitching Techniques",
+                    "Precision Measurement",
+                    "Client Consultation",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",
@@ -31375,6 +31699,62 @@
                 "defaultTitleName": "Veneer Pressing Foreman",
                 "skills": [
                     "Veneer Pressing Foreman",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Senior Liquid Filling Operator",
+                "skills": [
+                    "Volumetric/Gravimetric Filling",
+                    "CIP/SIP Procedures",
+                    "Valve Maintenance",
+                    "Fill Volume Quality Control",
+                    "Process Documentation",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Senior Packaging Machine Operator",
+                "skills": [
+                    "PLC/HMI Operation",
+                    "Conveyor System Maintenance",
+                    "Bagging/Sealing Systems",
+                    "Preventative Maintenance (PM)",
+                    "Team Leadership",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",
@@ -43960,6 +44340,33 @@
                 ]
             },
             {
+                "defaultTitleName": "Electrician",
+                "skills": [
+                    "Electrical theory knowledge",
+                    "Blueprint reading",
+                    "NEC familiarity",
+                    "Wiring installation",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
                 "defaultTitleName": "Auto Painter",
                 "skills": [
                     "Auto Painter",
@@ -49429,6 +49836,34 @@
                 "defaultTitleName": "Electrical Line Man",
                 "skills": [
                     "Electrical Line Man",
+                    "Communication",
+                    "Teamwork",
+                    "Problem Solving",
+                    "Leadership",
+                    "Strategic Planning",
+                    "Budget Management",
+                    "Negotiation",
+                    "Client Relations",
+                    "Sales Strategy",
+                    "Technical Troubleshooting",
+                    "Equipment Repair",
+                    "System Diagnostics",
+                    "Blueprint Reading",
+                    "Safety Compliance   HSE  ",
+                    "Precision Measurement",
+                    "Data Entry",
+                    "MS Office Proficiency",
+                    "Record Keeping"
+                ]
+            },
+            {
+                "defaultTitleName": "Electrical Commissioning Superintendent",
+                "skills": [
+                    "FAT/SAT Testing (Factory/Site)",
+                    "High-Voltage Switching",
+                    "Relay Protection Testing",
+                    "P&ID Interpretation",
+                    "Stakeholder Coordination",
                     "Communication",
                     "Teamwork",
                     "Problem Solving",

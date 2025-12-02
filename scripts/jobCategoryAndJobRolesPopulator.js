@@ -1,4 +1,4 @@
-import categoryDatas from "./categoriesEdit.json" with { type: "json" };
+import categoryDatas from "../data/categoriesEdit.json" with { type: "json" };
 import { JobCategory } from "../mongoose/models/jobCategory.model.js";
 import { JobRoles } from "../mongoose/models/jobroles.model.js";
 import { connect } from "../mongoose/mongoose.js";

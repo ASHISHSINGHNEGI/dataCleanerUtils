@@ -1,4 +1,4 @@
-import employerData from "../data/raListCleaned.json" with { type: "json" };
+import employerData from "../data/raListCleanedDummy.json" with { type: "json" };
 import { employerUserModel } from "../mongoose/models/employerUser.model.js";
 import { connect } from "../mongoose/mongoose.js";
 

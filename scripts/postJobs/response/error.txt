@@ -1,18 +1,15 @@
-FAILURE: Job Title: Instrument Technician at UAE. Error: userId is not present
-FAILURE: Job Title: Pipe Fabricator at UAE. Error: userId is not present
-FAILURE: Job Title: Mechanical Helper at UAE. Error: userId is not present
-FAILURE: Job Title: Store Supervisor P&M at Qatar. Error: userId is not present
-FAILURE: Job Title: PTW Coordinator at Qatar. Error: userId is not present
-FAILURE: Job Title: PTW Coordinator at Qatar. Error: userId is not present
-FAILURE: Job Title: PTW Coordinator at Qatar. Error: userId is not present
-FAILURE: Job Title: Site Engineer - Mechanical (Pipeline) at Qatar. Error: userId is not present
-FAILURE: Job Title: Commissioning Lead Engineer at Qatar. Error: userId is not present
-FAILURE: Job Title: Commissioning Engineer at Qatar. Error: userId is not present
-FAILURE: Job Title: Electrical Commissioning Superintendent at Qatar. Error: userId is not present
-FAILURE: Job Title: Win PCS Coordinator at Qatar. Error: userId is not present
-FAILURE: Job Title: Document Controller at Qatar. Error: userId is not present
-FAILURE: Job Title: Rigging Supervisor at Qatar. Error: userId is not present
-FAILURE: Job Title: Scaffolding Supervisor at Qatar. Error: userId is not present
-FAILURE: Job Title: Welding Inspector at Qatar. Error: userId is not present
-FAILURE: Job Title: Welding Inspector at Qatar. Error: userId is not present
-FAILURE: Job Title: E&I Engineers at Qatar. Error: userId is not present
+FAILURE: Job Title: Win PCS Coordinator at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: PTW Coordinator at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Document Controller at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Scaffolding Supervisor at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Commissioning Lead Engineer at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Site Engineer - Mechanical (Pipeline) at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Store Supervisor P&M at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: PTW Coordinator at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Welding Inspector at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Rigging Supervisor at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Welding Inspector at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Electrical Commissioning Superintendent at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: E&I Engineers at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: Commissioning Engineer at Qatar. Error: Status: 400. , Bad Request
+FAILURE: Job Title: PTW Coordinator at Qatar. Error: Status: 400. , Bad Request

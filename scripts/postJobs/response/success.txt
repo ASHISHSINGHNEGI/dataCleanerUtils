@@ -1,0 +1,49 @@
+SUCCESS: Mason at UAE, ID: 69303894e55abdf3961065f6
+SUCCESS: Plumber at United Arab Emirates, ID: 69303894e55abdf3961065fe
+SUCCESS: Coat Maker at Madina, ID: 69303894e55abdf396106604
+SUCCESS: Gents Tailor - Pant and Shirt at Saudi Arabia, ID: 69303894e55abdf39610660a
+SUCCESS: Plumber at UAE, ID: 69303894e55abdf396106619
+SUCCESS: Tiles Mason at UAE, ID: 69303894e55abdf39610661f
+SUCCESS: Electrician at United Arab Emirates, ID: 69303894e55abdf396106624
+SUCCESS: Electronic Technician (Fire Alarm Systems) at KSA, ID: 69303895e55abdf39610662a
+SUCCESS: Instrument Technician at UAE, ID: 69303897e55abdf396106632
+SUCCESS: Carpenter at UAE, ID: 6930389746bde91f603ee82d
+SUCCESS: Steel Fixer at United Arab Emirates, ID: 6930389a7d64c119e6ffd1ab
+SUCCESS: Pipe Fabricator at UAE, ID: 6930389a784338bb4b6ccfc2
+SUCCESS: Rigger at UAE, ID: 6930389a57ed1968453cd4e7
+SUCCESS: Automobile Electrician (Heavy Vehicles) at UAE, ID: 6930389a39767b72de82a0e7
+SUCCESS: Mechanical Helper at UAE, ID: 6930389ae272f227dc86f18b
+SUCCESS: Steel Fixer at UAE, ID: 6930389ac3459bf9222a3043
+SUCCESS: Refrigeration Technician (HVAC & Chiller) at UAE, ID: 6930389a8127f4a9c0399b6c
+SUCCESS: Sushi Chef at UAE, ID: 6930389ad046ed2ad6e894a4
+SUCCESS: Painter at UAE, ID: 6930389a6ebee0700c11c850
+SUCCESS: Senior Machine Operator (Tablet, Capsule, Granulation) at Iraq, ID: 6930389a1a84bc30f02d686f
+SUCCESS: Pipe Fitter at UAE, ID: 6930389a341eb475297b3c07
+SUCCESS: Helper (Heavy Vehicles) at UAE, ID: 6930389aa41d7b17c726f06c
+SUCCESS: Pest Control Supervisor at Oman, ID: 6930389cf6265310db09da20
+SUCCESS: Truck/Bus Mechanic at UAE, ID: 6930389c4dfd575c78a62a1d
+SUCCESS: Chinese & Japanese Chef at UAE, ID: 6930389c6c57832cc58b764c
+SUCCESS: Water Station Operator at UAE, ID: 6930389c37213f6d5a36918c
+SUCCESS: Electrician at UAE, ID: 6930389c06e44fb3a4476460
+SUCCESS: Chemical Engineer at Iraq, ID: 6930389c3df25bd1929e9fea
+SUCCESS: Shuttering Carpenter at United Arab Emirates, ID: 6930389cd5fa2834f3ce7ed6
+SUCCESS: Water Pump Mechanic at UAE, ID: 6930389c9e12481f7120528f
+SUCCESS: Coat Cutter at Madina, ID: 6930389ccfe1ce33f5584f60
+SUCCESS: House Electrician at UAE, ID: 6930389c578267659c591868
+SUCCESS: Plumber at UAE, ID: 6930389c3b7f1fdaf089104f
+SUCCESS: Senior Blistering & Carton Machine Operator at Iraq, ID: 6930389caed73b44b20d7d88
+SUCCESS: AC Mechanic (Split) at UAE, ID: 6930389c09e6fc42b5935e7b
+SUCCESS: Waiter at UAE, ID: 6930389c74c33955c20be816
+SUCCESS: Helper at United Arab Emirates, ID: 6930389cafc8a3661ce3d5b7
+SUCCESS: Manicurist and Pedicurist (Male) at UAE, ID: 6930389c84d59ac6b5b51cef
+SUCCESS: Mason at United Arab Emirates, ID: 6930389c540e4a17c107f0e4
+SUCCESS: 3 Face AC Mechanic (Split) at UAE, ID: 6930389ce91b513c7cf09e57
+SUCCESS: Helper at UAE, ID: 6930389cfdf5f5b5ed16b3c6
+SUCCESS: Pest Control Technician at Oman, ID: 6930389c3b5d2c7cbcc85884
+SUCCESS: Shuttering Carpenter at UAE, ID: 6930389c6b1e71177007ca6e
+SUCCESS: Senior Liquid Filling Line Operator at Iraq, ID: 6930389cb607421702896479
+SUCCESS: Sofa Maker at UAE, ID: 6930389c47a929613d5d446e
+SUCCESS: Gypsum Carpenter at United Arab Emirates, ID: 6930389c97b20a0cc5224c6b
+SUCCESS: Ladies Tailor Cutter at Saudi Arabia, ID: 6930389c81c929a5e85850c7
+SUCCESS: Production Engineer (Filter Factory) at UAE, ID: 6930389c230ab3ccd72c9014
+SUCCESS: Thob Tailor at Saudi Arabia, ID: 69303a61b59b979240297d90

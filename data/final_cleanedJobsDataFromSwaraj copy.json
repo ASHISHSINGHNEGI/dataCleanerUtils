@@ -725,6 +725,11 @@
         ]
       },
       "skills": [],
+      "certifications": [
+        "Ayesha",
+        "ABC 'B' Grade Trade Test Certificate",
+        "Takamol Skill Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -3194,8 +3199,8 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
@@ -3212,34 +3217,19 @@
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "company": {
@@ -3280,16 +3270,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
     },
     "overtimePolicy": "As per company policy",
     "workingConditions": {
-        "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -3297,12 +3287,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],
@@ -3311,54 +3301,33 @@
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "expensesAndFees": {
       "approxExpenses": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       },
       "registrationProcessingFee": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       },
       "registrationProcessingFeeGst": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       }
     },
     "selectionProcess": [],
@@ -3402,8 +3371,8 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
@@ -3412,8 +3381,8 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {},
@@ -3423,34 +3392,19 @@
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "company": {
@@ -4077,16 +4031,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "QAR",
       "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "",
     "workingConditions": {
-      "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -4094,12 +4048,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],
@@ -4202,16 +4156,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "QAR",
       "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "",
     "workingConditions": {
-      "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -4219,12 +4173,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],

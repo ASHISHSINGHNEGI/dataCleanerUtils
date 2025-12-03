@@ -24,9 +24,7 @@
       "dutyHoursPerDay": 10,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": [
-        "45 days leave for every 2 years"
-      ],
+      "leaveBenefits": ["45 days leave for every 2 years"],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -133,9 +131,9 @@
     "userId": "692d8bb7f8b77dede6093161"
   },
   {
-    "title": "Tiles Mason at UAE",
-    "description": "Hiring 80 Tiles Masons for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
-    "responsibilities": "Tile installation, measuring, cutting, fitting, surface preparation, finishing work.",
+    "title": "Mason at UAE",
+    "description": "Hiring 90 Masons for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Masonry work including bricklaying, block work, plastering, and finishing.",
     "type": "FULL-TIME",
     "contractPeriod": "2 Years",
     "contractRenewalPolicy": "Renewable",
@@ -154,12 +152,10 @@
     },
     "overtimePolicy": "OT provided as per company policy",
     "workingConditions": {
-      "dutyHoursPerDay": 10,
+      "dutyHoursPerDay": 11,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": [
-        "45 days leave for every 2 years"
-      ],
+      "leaveBenefits": ["45 days leave for every 2 years"],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -249,8 +245,8 @@
       "recruitingAgency": ""
     },
     "jobRole": {
-      "name": "Tiles Mason",
-      "id": "692d47c16cb8ef66cdc7d8f9"
+      "name": "Mason",
+      "id": "692ec14d994c270d67b5d066"
     },
     "jobCategory": {
       "name": "Mason",
@@ -261,9 +257,2950 @@
     "dateOfExpiration": "2026-03-02",
     "isFeatured": false,
     "isArchived": false,
-    "positions": 80,
+    "positions": 90,
     "positionFilled": 0,
     "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Carpenter at UAE",
+    "description": "Hiring 110 Carpenters for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Woodwork, shuttering, formwork, cutting, shaping, and installing materials.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 12,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Carpenter",
+      "id": "692ec152994c270d67b5d06c"
+    },
+    "jobCategory": {
+      "name": "Carpenter",
+      "id": "692d47bb6cb8ef66cdc7ceca"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 110,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Steel Fixer at UAE",
+    "description": "Hiring 90 Steel Fixers for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Cutting, bending, fixing steel bars and mesh for construction reinforcement.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 13,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Steel Fixer",
+      "id": "692d47d56cb8ef66cdc7e026"
+    },
+    "jobCategory": {
+      "name": "Labor Helper",
+      "id": "692d47bb6cb8ef66cdc7cee4"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 90,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Painter at UAE",
+    "description": "Hiring 30 Painters for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Painting, finishing, surface preparation, indoor and outdoor painting work.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 14,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Painter",
+      "id": "692ec150994c270d67b5d068"
+    },
+    "jobCategory": {
+      "name": "Painter Blaster",
+      "id": "692d47bb6cb8ef66cdc7cec0"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 30,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Helper at UAE",
+    "description": "Hiring 10 Helpers for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "General site labor, assisting skilled workers, carrying materials, cleaning work areas.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 15,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Helper",
+      "id": "692ec157994c270d67b5d076"
+    },
+    "jobCategory": {
+      "name": "Labor Helper",
+      "id": "692d47bb6cb8ef66cdc7cee4"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 10,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Pipe Fitter at UAE",
+    "description": "Hiring 40 Pipe Fitters for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Pipe fitting, installation, assembling, maintenance, and repair of piping systems.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1600,
+      "max": 1600,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 16,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Pipe Fitter",
+      "id": "692d47d46cb8ef66cdc7df51"
+    },
+    "jobCategory": {
+      "name": "Fitter Fabricator",
+      "id": "692d47bb6cb8ef66cdc7cede"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 40,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Electrician at UAE",
+    "description": "Hiring 30 Electricians for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Electrical wiring, panel installation, troubleshooting, and equipment maintenance.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1600,
+      "max": 1600,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 17,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Electrician",
+      "id": "692ec15a994c270d67b5d080"
+    },
+    "jobCategory": {
+      "name": "Car Maintenance",
+      "id": "692d47bb6cb8ef66cdc7cefe"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 30,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Rigger at UAE",
+    "description": "Hiring 30 Riggers for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Lifting operations, rigging equipment setup, safety checks, and load management.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1600,
+      "max": 1600,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 18,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Rigger",
+      "id": "692d47e66cb8ef66cdc7e71c"
+    },
+    "jobCategory": {
+      "name": "Rigger Signalman",
+      "id": "692d47bd6cb8ef66cdc7d371"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 30,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Plumber at UAE",
+    "description": "Hiring 30 Plumbers for UAE under Pinazil - Golden Yard Technical Services L.L.C.",
+    "responsibilities": "Plumbing installation, pipe fitting, repair, and maintenance of water and drainage systems.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1600,
+      "max": 1600,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 19,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["45 days leave for every 2 years"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [
+      "Contract - Two years (Renewable)",
+      "Probation - 6 Months from the Date of Joining",
+      "Vacation - 45 Days for every 2 years"
+    ],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Plumber",
+      "id": "692d47dc6cb8ef66cdc7e706"
+    },
+    "jobCategory": {
+      "name": "Plumber",
+      "id": "692d47bc6cb8ef66cdc7cff5"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 30,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Helper at United Arab Emirates",
+    "description": "Hiring 200 Helpers for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "General labor, assisting technicians, carrying materials, and maintaining job site cleanliness.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1365,
+      "max": 1365,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": ["Contract - 2 years (renewable)"],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["DIRECT EMPLOYMENT VISA", "ECR/ECNR Passport Accepted"],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Helper",
+      "id": "692ec157994c270d67b5d076"
+    },
+    "jobCategory": {
+      "name": "Labor Helper",
+      "id": "692d47bb6cb8ef66cdc7cee4"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 200,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Steel Fixer at United Arab Emirates",
+    "description": "Hiring 300 Steel Fixers for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Cutting, bending, fixing steel bars and mesh for construction reinforcement.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1560,
+      "max": 1560,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Steel Fixer",
+      "id": "692d47d56cb8ef66cdc7e026"
+    },
+    "jobCategory": {
+      "name": "Labor Helper",
+      "id": "692d47bb6cb8ef66cdc7cee4"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 300,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Gypsum Carpenter at United Arab Emirates",
+    "description": "Hiring 100 Gypsum Carpenters for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Drywall installation, gypsum board fixing, ceiling work, partition construction.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1625,
+      "max": 1625,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Gypsum Carpenter",
+      "id": "692d47c46cb8ef66cdc7dbd1"
+    },
+    "jobCategory": {
+      "name": "Carpenter",
+      "id": "692d47bb6cb8ef66cdc7ceca"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 100,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Shuttering Carpenter at United Arab Emirates",
+    "description": "Hiring 200 Shuttering Carpenters for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Formwork, shuttering, mold preparation, scaffolding support work.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1560,
+      "max": 1560,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Shuttering Carpenter",
+      "id": "692d47c46cb8ef66cdc7dbd3"
+    },
+    "jobCategory": {
+      "name": "Carpenter",
+      "id": "692d47bb6cb8ef66cdc7ceca"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 200,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Mason at United Arab Emirates",
+    "description": "Hiring 300 Masons for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Bricklaying, cement work, block setting, plastering, and construction finishing.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1690,
+      "max": 1690,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Mason",
+      "id": "692ec14d994c270d67b5d066"
+    },
+    "jobCategory": {
+      "name": "Mason",
+      "id": "692d47bb6cb8ef66cdc7ceb8"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 300,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Electrician at United Arab Emirates",
+    "description": "Hiring 100 Electricians for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Electrical wiring, panel installation, troubleshooting, and maintenance.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1690,
+      "max": 1690,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Electrician",
+      "id": "692ec15a994c270d67b5d080"
+    },
+    "jobCategory": {
+      "name": "Car Maintenance",
+      "id": "692d47bb6cb8ef66cdc7cefe"
+    },
+    "isActive": true,
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02",
+    "isFeatured": false,
+    "isArchived": false,
+    "positions": 100,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161"
+  },
+  {
+    "title": "Plumber at United Arab Emirates",
+    "description": "Hiring 100 Plumbers for Dubai under PINAZIL INTERNATIONAL PRIVATE LIMITED",
+    "responsibilities": "Plumbing installation, pipe fitting, repair, and maintenance of water and drainage systems.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "Renewable",
+    "location": {
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "remote": false
+    },
+    "salary": {
+      "min": 1690,
+      "max": 1690,
+      "currency": "AED",
+      "frequency": "Monthly",
+      "deduction": {}
+    },
+    "overtimePolicy": "OT provided as per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "medical_insurance": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "travel": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "visa": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "passport": {
+        "status": false,
+        "deductible": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "AED"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "jobReferralUtm": {},
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": ""
+    },
+    "jobRole": {
+      "name": "Plumber",
+      "id": "692d47dc6cb8ef66cdc7e706"
+    },
+    "jobCategory": {
+      "name": "Plumber",
+      "id": "692d47bc6cb8ef66cdc7cff5"
+    },
+    "isActive": true,
+    "positions": 100,
+    "positionFilled": 0,
+    "userId": "692d8bb7f8b77dede6093161",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Truck/Bus Mechanic at UAE",
+    "description": "Hiring 20 Truck/Bus Mechanics with Gulf experience for UAE under Abu Travel Service.",
+    "responsibilities": "Heavy-duty vehicle repair and maintenance, engine and transmission overhauls, axle and suspension work, brake systems, hydraulic/pneumatic systems.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 750,
+      "max": 850,
+      "currency": "EUR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 120,
+          "max": 120,
+          "currency": "EUR"
+        }
+      }
+    },
+    "overtimePolicy": "As per UAE labor law",
+    "workingConditions": {
+      "dutyHoursPerDay": 8,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": 25,
+        "max": 48
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Experience in MAN, Neoplan, Mercedes, Volvo, Scania, DAF, Iveco, Renault",
+          "Engine & transmission overhaul experience",
+          "Hydraulic/pneumatic systems"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "read": {
+            "status": true
+          },
+          "write": {
+            "status": true
+          },
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["Self introduction video in English required"],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Trucks And Trailers Mechanic",
+      "id": "692d47c26cb8ef66cdc7d98b"
+    },
+    "jobCategory": {
+      "name": "Mechanic",
+      "id": "692d47bb6cb8ef66cdc7ceba"
+    },
+    "isActive": true,
+    "positions": 20,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Automobile Electrician (Heavy Vehicles) at UAE",
+    "description": "Hiring 10 Heavy Vehicle Electricians with Gulf experience for UAE under Abu Travel Service.",
+    "responsibilities": "Electrical diagnostics, ABS/EBS, CAN-Bus, AdBlue, ECU fault diagnosis, scanner-based troubleshooting.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 700,
+      "max": 800,
+      "currency": "EUR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 120,
+          "max": 120,
+          "currency": "EUR"
+        }
+      }
+    },
+    "overtimePolicy": "As per UAE labor law",
+    "workingConditions": {
+      "dutyHoursPerDay": 9,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": 25,
+        "max": 48
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Heavy vehicle electrical systems experience",
+          "Knowledge of diagnostic scanners (MAN-Cats, Xentry, TEXA, Jaltest)"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "read": {
+            "status": true
+          },
+          "write": {
+            "status": true
+          },
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["Self introduction video in English required"],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Automobile Electrician",
+      "id": "692d47d96cb8ef66cdc7e4e0"
+    },
+    "jobCategory": {
+      "name": "Car Maintenance",
+      "id": "692d47bb6cb8ef66cdc7cefe"
+    },
+    "isActive": true,
+    "positions": 10,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Helper (Heavy Vehicles) at UAE",
+    "description": "Hiring 5 Helpers with Gulf experience for UAE under Abu Travel Service.",
+    "responsibilities": "Assisting mechanics and electricians in workshops, handling tools, supporting repair and maintenance tasks.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 550,
+      "max": 550,
+      "currency": "EUR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 120,
+          "max": 120,
+          "currency": "EUR"
+        }
+      }
+    },
+    "overtimePolicy": "As per UAE labor law",
+    "workingConditions": {
+      "dutyHoursPerDay": 10,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": 25,
+        "max": 48
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Assisted in heavy vehicle workshops",
+          "Handled tools and supported mechanical/electrical staff"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "read": {
+            "status": true
+          },
+          "write": {
+            "status": true
+          },
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["Self introduction video in English required"],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Helper",
+      "id": "692ec157994c270d67b5d076"
+    },
+    "jobCategory": {
+      "name": "Labor Helper",
+      "id": "692d47bb6cb8ef66cdc7cee4"
+    },
+    "isActive": true,
+    "positions": 5,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Sofa Maker at UAE",
+    "description": "Hiring 30 Sofa Makers for UAE under Abu Travel Service.",
+    "responsibilities": "Wooden frame making, upholstery work, furniture fitting and finishing.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 600,
+      "max": 600,
+      "currency": "EUR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 120,
+          "max": 120,
+          "currency": "EUR"
+        }
+      }
+    },
+    "overtimePolicy": "As per UAE labor law",
+    "workingConditions": {
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Wooden frame making",
+          "Upholstery work",
+          "Preference for overseas experience"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "read": {
+            "status": true
+          },
+          "write": {
+            "status": true
+          },
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 120,
+        "currency": "EUR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "EUR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Sofa Maker",
+      "id": "692d47c46cb8ef66cdc7dbdf"
+    },
+    "jobCategory": {
+      "name": "Carpenter",
+      "id": "692d47bb6cb8ef66cdc7ceca"
+    },
+    "isActive": true,
+    "positions": 30,
+    "positi,onFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Chinese & Japanese Chef at UAE",
+    "description": "Hiring 5 Chinese & Japanese Chefs for UAE under Abu Travel Service - Saudi Arabia - Baytoti Restaurant.",
+    "responsibilities": "Preparing authentic Chinese and Japanese dishes, wok cooking, handling kitchen equipment, food preparation.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1875,
+      "max": 1875,
+      "currency": "SAR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 0,
+          "max": 0,
+          "currency": "SAR"
+        }
+      }
+    },
+    "overtimePolicy": "As per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 8,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "male",
+      "ageLimit": {
+        "min": 25,
+        "max": 35
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Experience in authentic Chinese & Japanese cuisine",
+          "Must be able to work with wok and kitchen equipment"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["Only Muslim candidates will work in Makkah & Medina"],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Chinese Cook",
+      "id": "692d47d96cb8ef66cdc7e58c"
+    },
+    "jobCategory": {
+      "name": "Cook Chef",
+      "id": "692d47bb6cb8ef66cdc7cf02"
+    },
+    "isActive": true,
+    "positions": 5,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Sushi Chef at UAE",
+    "description": "Hiring 5 Sushi Chefs for UAE under Abu Travel Service - Saudi Arabia - Baytoti Restaurant.",
+    "responsibilities": "Preparing sushi, sashimi, Japanese cold dishes, food handling, hygiene maintenance.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1875,
+      "max": 3000,
+      "currency": "SAR",
+      "frequency": "Monthly",
+      "deduction": {
+        "foodAllowance": {
+          "min": 0,
+          "max": 0,
+          "currency": "SAR"
+        }
+      }
+    },
+    "overtimePolicy": "As per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 8,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "male",
+      "ageLimit": {
+        "min": 25,
+        "max": 35
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Expert in preparing sushi dishes",
+          "Experience working in Japanese kitchens"
+        ]
+      },
+      "skills": [],
+      "languages": [
+        {
+          "name": "English",
+          "speak": {
+            "status": true
+          }
+        }
+      ]
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": ["Only Muslim candidates will work in Makkah & Medina"],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Sushi Chef",
+      "id": "692d47d96cb8ef66cdc7e54a"
+    },
+    "jobCategory": {
+      "name": "Cook Chef",
+      "id": "692d47bb6cb8ef66cdc7cf02"
+    },
+    "isActive": true,
+    "positions": 5,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
+  },
+  {
+    "title": "Waiter at UAE",
+    "description": "Hiring 5 Waiters for UAE under Abu Travel Service - Saudi Arabia - Baytoti Restaurant.",
+    "responsibilities": "Serving customers, order taking, table setting, maintaining cleanliness, customer interaction.",
+    "type": "FULL-TIME",
+    "contractPeriod": "2 Years",
+    "contractRenewalPolicy": "",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "UAE",
+      "remote": false
+    },
+    "salary": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "SAR",
+      "frequency": "Monthly",
+      "deduction": {
+        "additionalAllowance": {
+          "min": 200,
+          "max": 200,
+          "currency": "SAR"
+        }
+      }
+    },
+    "overtimePolicy": "As per company policy",
+    "workingConditions": {
+      "dutyHoursPerDay": 8,
+      "workingDaysPerMonth": 26,
+      "breakTimeIncluded": false,
+      "leaveBenefits": [],
+      "educationReq": {}
+    },
+    "candidateRequirements": {
+      "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
+      "education": [],
+      "experience": {
+        "minimumYears": null,
+        "description": [
+          "Relevant waiter experience",
+          "Good English communication"
+        ]
+      },
+      "skills": [],
+      "languages": []
+    },
+    "facilitiesAndBenefits": {
+      "food": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "accommodation": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "medical_insurance": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "travel": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "visa": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "passport": {
+        "status": true,
+        "deductible": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0,
+        "currency": "SAR"
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "mode_of_apply": "Portal",
+    "company": {
+      "name": "Abu Travel Service"
+    },
+    "contact": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "recruitingAgency": "",
+      "whatsapp": ""
+    },
+    "jobRole": {
+      "name": "Waiter",
+      "id": "692d47d76cb8ef66cdc7e2fc"
+    },
+    "jobCategory": {
+      "name": "Waiter Steward",
+      "id": "692d47bb6cb8ef66cdc7cefa"
+    },
+    "isActive": true,
+    "positions": 5,
+    "positionFilled": 0,
+    "userId": "692d8bb3f8b77dede6092bab",
+    "dateOfApplication": "2025-12-02",
+    "dateOfExpiration": "2026-03-02"
   },
   {
     "title": "Refrigeration Technician (HVAC & Chiller) at UAE",
@@ -720,11 +3657,14 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years plumbing experience required"
-        ]
+        "description": ["3\u20135 years plumbing experience required"]
       },
       "skills": [],
+      "certifications": [
+        "Ayesha",
+        "ABC 'B' Grade Trade Test Certificate",
+        "Takamol Skill Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -853,9 +3793,7 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years experience in shuttering carpentry"
-        ]
+        "description": ["3\u20135 years experience in shuttering carpentry"]
       },
       "skills": [],
       "certifications": [
@@ -1405,9 +4343,7 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years experience in split AC systems"
-        ]
+        "description": ["3\u20135 years experience in split AC systems"]
       },
       "skills": [],
       "certifications": [
@@ -2151,9 +5087,7 @@
       ],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years experience in fire alarm systems"
-        ]
+        "description": ["3\u20135 years experience in fire alarm systems"]
       },
       "skills": [],
       "certifications": [],
@@ -2258,16 +5192,10 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years tailoring experience"
-        ]
+        "description": ["3\u20135 years tailoring experience"]
       },
-      "skills": [
-        "Working video required"
-      ],
-      "certifications": [
-        "Ayesha Trade Test"
-      ],
+      "skills": ["Working video required"],
+      "certifications": ["Ayesha Trade Test"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2368,16 +5296,10 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years cutting and tailoring experience"
-        ]
+        "description": ["3\u20135 years cutting and tailoring experience"]
       },
-      "skills": [
-        "Working video required"
-      ],
-      "certifications": [
-        "Ayesha Trade Test"
-      ],
+      "skills": ["Working video required"],
+      "certifications": ["Ayesha Trade Test"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2478,16 +5400,10 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years tailoring experience"
-        ]
+        "description": ["3\u20135 years tailoring experience"]
       },
-      "skills": [
-        "Working video required"
-      ],
-      "certifications": [
-        "Ayesha Trade Test"
-      ],
+      "skills": ["Working video required"],
+      "certifications": ["Ayesha Trade Test"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2577,16 +5493,10 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years experience"
-        ]
+        "description": ["3\u20135 years experience"]
       },
-      "skills": [
-        "Working video required"
-      ],
-      "certifications": [
-        "Ayesha Trade Test"
-      ],
+      "skills": ["Working video required"],
+      "certifications": ["Ayesha Trade Test"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2673,16 +5583,10 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years tailoring experience"
-        ]
+        "description": ["3\u20135 years tailoring experience"]
       },
-      "skills": [
-        "Working video required"
-      ],
-      "certifications": [
-        "Ayesha Trade Test"
-      ],
+      "skills": ["Working video required"],
+      "certifications": ["Ayesha Trade Test"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2757,14 +5661,10 @@
       "gender": "any",
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years relevant experience"
-        ]
+        "description": ["3\u20135 years relevant experience"]
       },
       "skills": [],
-      "certifications": [
-        "Visa Ready Immediate Departure"
-      ],
+      "certifications": ["Visa Ready Immediate Departure"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -2830,9 +5730,7 @@
       "gender": "any",
       "experience": {
         "minimumYears": 3,
-        "description": [
-          "3\u20135 years experience"
-        ]
+        "description": ["3\u20135 years experience"]
       },
       "skills": [],
       "certifications": [],
@@ -2978,9 +5876,7 @@
         "description": []
       },
       "skills": [],
-      "certifications": [
-        "CV selection"
-      ],
+      "certifications": ["CV selection"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -3071,9 +5967,7 @@
       "education": [],
       "experience": {},
       "skills": [],
-      "certifications": [
-        "CV selection"
-      ],
+      "certifications": ["CV selection"],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -3194,8 +6088,8 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
@@ -3205,41 +6099,24 @@
       "education": [],
       "experience": {},
       "skills": [],
-      "certifications": [
-        "Virtual interview"
-      ],
+      "certifications": ["Virtual interview"],
       "languages": []
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "company": {
@@ -3280,16 +6157,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
     },
     "overtimePolicy": "As per company policy",
     "workingConditions": {
-        "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -3297,12 +6174,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],
@@ -3311,54 +6188,33 @@
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "expensesAndFees": {
       "approxExpenses": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       },
       "registrationProcessingFee": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       },
       "registrationProcessingFeeGst": {
         "status": false,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "amount": 0
       }
     },
     "selectionProcess": [],
@@ -3402,8 +6258,8 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "",
       "frequency": "",
       "deduction": {}
@@ -3412,8 +6268,8 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {},
@@ -3423,34 +6279,19 @@
     },
     "facilitiesAndBenefits": {
       "food": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "accommodation": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "medical_insurance": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "travel": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       },
       "visa": {
-        "status": true,
-        "deductible": false,
-        "amount": 0,
-        "currency": "AED"
+        "status": true
       }
     },
     "company": {
@@ -4077,16 +6918,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "QAR",
       "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "",
     "workingConditions": {
-      "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -4094,12 +6935,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],
@@ -4202,16 +7043,16 @@
       "remote": false
     },
     "salary": {
-      "min": 0,
-      "max": 0,
+      "min": null,
+      "max": null,
       "currency": "QAR",
       "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "",
     "workingConditions": {
-      "dutyHoursPerDay": 0,
-      "workingDaysPerMonth": 0,
+      "dutyHoursPerDay": null,
+      "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
       "leaveBenefits": [],
       "educationReq": {}
@@ -4219,12 +7060,12 @@
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
-        "min": 0,
-        "max": 0
+        "min": null,
+        "max": null
       },
       "education": [],
       "experience": {
-        "minimumYears": 0,
+        "minimumYears": null,
         "description": []
       },
       "skills": [],

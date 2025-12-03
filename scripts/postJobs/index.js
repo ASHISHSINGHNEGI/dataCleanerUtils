@@ -1,17 +1,20 @@
-const authToken = "eyJraWQiOiJWMmF6Q2NDXC96ajlGZVRBM0FZS0thcU5ZUGdyd1haSGV5NlczbzhkbXVOcz0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMTUzZmRmYS02MDIxLTcwMzMtMDUzMC0zOGE2ZmI4ZTI2NzAiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xX01raUVlVUcyMSIsImNsaWVudF9pZCI6IjJjdjRpc2RtZmIzMDdiaWNwMWVqMzg1a3R2Iiwib3JpZ2luX2p0aSI6IjNiNTNiMzRhLTJkNzktNDE4ZS04ZDI3LTJmNGVhZGRmYzcyNSIsImV2ZW50X2lkIjoiNzhlZTYyNDctYjI0YS00MDU4LWE2NjUtMjM5MDY1NWQ3MzlmIiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDY4MzMzMSwiZXhwIjoxNzY0NzA0MzQwLCJpYXQiOjE3NjQ3MDA3NDAsImp0aSI6ImEyMzlmOWU1LTlmMmUtNGNjYS05MTM2LTJmNDM2YTExNWJjNiIsInVzZXJuYW1lIjoiMTE1M2ZkZmEtNjAyMS03MDMzLTA1MzAtMzhhNmZiOGUyNjcwIn0.KcfrXIL8cFt2ewDtWNEy_9Z_1oS2aefBTawrmo2_tI1fAgz11M-fbaZKaFKMG76DqBIQeag93AzrUJJ-CEjUp8WKo1e6CxoujSSKkOFfbDU4gMlI_2Gwr36FWsCbUGwZGQ3yn9sKjetsqmvGojpNpPxjiYw7GAclo0PqNkVex9ZPpl_pB81TCUsB8o_PFITrh5AqYFPgqeNqp9-7wSLPPnq5bv-Ze80eY7wegINCHZLu04FrYSWnH3iYDy9-GUN2SVewzZplEDhwU5bfQNlD8iEIwy9YoXJpvAj5L0p9qZRC7Bb_OQx2IBesY5h4diULNbcJWXlScDhWx0azvsjK_A"
+const authToken = "eyJraWQiOiJtelladG1yeTZFaGhPTHNDV3ZlRGdBNWZCbXZ1WENDVDBVNFZGOGVoRkI4PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJlMWMzNmQ5YS1kMGExLTcwNzQtMzllOS1lNzYzMTU5N2EwYWMiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xXzcyV3VQbTZHNSIsImNsaWVudF9pZCI6IjQxaTBlbGllN2lwdmUyM3JvMmNnbGRjbG4xIiwib3JpZ2luX2p0aSI6IjlmYTdhYmE3LTRmOTAtNDFiZS05MGFmLWUzMWQxOGQ2YmQ1YiIsImV2ZW50X2lkIjoiZTkyMGZmMTUtNDY2ZC00OThkLWJiMDktMDdjNmI5MmVlNTIzIiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc2MzU1OSwiZXhwIjoxNzY0NzcxMzc4LCJpYXQiOjE3NjQ3Njc3NzgsImp0aSI6IjA4ZDM3ZTExLWNjYTctNDY0NC1iNGJhLTk2YWRlZDhjNjkxNyIsInVzZXJuYW1lIjoiZTFjMzZkOWEtZDBhMS03MDc0LTM5ZTktZTc2MzE1OTdhMGFjIn0.ttRffzi4TZuNA9tsUawYdMKnDuad-6gVgpm0f9BD7uSGPn4IANEghbFmE0AFSh4eAClIZQ783JaPrWthl-nIxn3EqR1g-2lYFKw0E3Mum-otsll5dnBsGIuR2jrpZ3ssQo5qCnaNCW1bExDaKWwLq6dtqnLRwc3Xw0RSrJxc54Gmq352Nfe9KzIBNXYUNPzQIYvulwrO0hhf998kKPg34FT1KvYVAZqBbE8fZ908g1uRsnYUNExIXvRDEgFaOi0YRBJDkXk1mETbvoe9HAmxdYSD47xuI233Xdm-iLQPx_Bu5aeJClvmn5afQ0FgU_CJ_asDdWXyboaUHIL_9vBRRA"
+const authToken_prod = "eyJraWQiOiJWMmF6Q2NDXC96ajlGZVRBM0FZS0thcU5ZUGdyd1haSGV5NlczbzhkbXVOcz0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMTUzZmRmYS02MDIxLTcwMzMtMDUzMC0zOGE2ZmI4ZTI2NzAiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xX01raUVlVUcyMSIsImNsaWVudF9pZCI6IjJjdjRpc2RtZmIzMDdiaWNwMWVqMzg1a3R2Iiwib3JpZ2luX2p0aSI6Ijg1OWYzM2ExLTQwMjMtNDhjZC04ZTU2LTZiMTM3YzI1Yzk1YyIsImV2ZW50X2lkIjoiMTMyNjRhMTMtMDUwMS00ZjdkLTlhNzYtMTMzN2U5MTFhZjk2IiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc1Njg3OCwiZXhwIjoxNzY0NzY0MTM3LCJpYXQiOjE3NjQ3NjA1MzcsImp0aSI6IjljZGNiOWU4LTBlZjEtNGEzMS04ZTc2LWYzYWM0MjQzZjM3YSIsInVzZXJuYW1lIjoiMTE1M2ZkZmEtNjAyMS03MDMzLTA1MzAtMzhhNmZiOGUyNjcwIn0.kyXqEC81XdMFooLFAoRmImHUX2Nsgs3gcpOiiGdjDwxqzSreDGjDgs4qrahnvPsG_X8W5EtmLG-8om57qEkAtLRENdtriWCE4Y7DSZMu8Sl-57iog3CIGHpEFTp5DdGCf1oKCD9y0JSWhJYBgPojPequ2HT-vQ5n8jstPIzWBA32mq1RVaedFvtRY_dZUSllIRN1oV0ImEDC1OHSMXVFx3dVY-V36OorYhJhHaC_d-3Z43-P-afqsK6X1jn0yBF_n9xDmcbKUjRjnZnTlrJmmswixafIRrKkhb-CnfQaNP-9gdeFV5ZF82CBenF_ZbvNdqw099nVAeb3nHmcyDaT0A"
 import { Types } from "mongoose";
-import jobs from "../../data/final_cleanedJobsDataFromSwaraj.json" with { type: "json" };
+import jobs from "../../data/errorLIst.json" with { type: "json" };
 import * as fs from 'node:fs/promises';
 
 async function postJobs() {
-    const url = "https://q01w1i707b.execute-api.ap-south-1.amazonaws.com/preprod/candidate/jobs"
+    const url_prod = "https://q01w1i707b.execute-api.ap-south-1.amazonaws.com/preprod/candidate/jobs" //prod
+    const url_dev = "https://zj5sfb8b82.execute-api.ap-south-1.amazonaws.com/dev/candidate/jobs"
     console.log("total jobs : ", jobs.length);
-     await fs.mkdir('./response', { recursive: true }).catch(() => {}); 
-        
+    await fs.mkdir('./response', { recursive: true }).catch((error) => { console.log(error) });
+
     const jobPromise = jobs.map(async (job) => {
         try {
             const data = formatTheDataIntoJobSchema(job)
-            const response = await fetch(url, {
+            // console.log(data)
+            const response = await fetch(url_dev, {
                 method: "POST",
                 body: JSON.stringify(data),
                 headers: {
@@ -19,27 +22,19 @@ async function postJobs() {
                     'Authorization': `Bearer ${authToken}`
                 }
             });
-              const result = await response.json();
+            const result = await response.json();
 
             if (!response.ok) {
+                console.error(`${response.statusText}, ${response.status}`)
                 await writeFailureMessage({
                     job: job,
-                    message: `Status: ${response.status}. Body: ${errorBody}`
+                    message: `Status: ${response.status}. , ${response.statusText}`
                 });
                 return
             }
             const resultData = result.data
-
-             if (!newJobData || !newJobData._id) {
-                await writeFailureMessage({
-                    job: job,
-                    message: `SUCCESS STATUS (2XX) but no ID found in response. Full body: ${JSON.stringify(result)}`
-                });
-                return;
-            }
             console.log("Job posted successfully: ", job.title, " & _id: ", resultData._id);
-
-             await writeSuccessMessage({ job: job, result: newJobData });
+            await writeSuccessMessage({ job: job, result: resultData });
 
         } catch (error) {
             console.error(`Posting Error for ${job.title}:`, error.message);
@@ -50,28 +45,159 @@ async function postJobs() {
     await Promise.all(jobPromise)
 }
 
-const formatTheDataIntoJobSchema = async (data) => {
+const formatTheDataIntoJobSchema = (data) => {
     // Pre-calculate the ObjectId for clarity and efficiency if needed elsewhere
     console.log("formating the job data")
 
     if (!data.jobCategory?.id) {
-        await writeFailureMessage({ job:data, message: "job category is not present" })
+        throw new Error("Job category ID is missing.");
     }
-    const categoryId = new Types.ObjectId(data.jobCategory?.id);
-
     if (!data.userId) {
-        await writeFailureMessage({ job:data, message: "userId is not present" })
+        throw new Error("User ID is missing.");
     }
 
+    // Convert to ObjectId synchronously
+    const categoryId = new Types.ObjectId(data.jobCategory.id);
     const userId = new Types.ObjectId(data.userId);
-    console.log("user id : ", userId)
+
+    // Define safe, empty default objects for deduction fields
+    // const deduction = data.salary?.deduction;
+    // const accommodationAllowance = deduction?.accommodationAllowance;
+    // const medicalInsurance = deduction?.medicalInsurance;
+
+    // // Define safe, empty default objects for candidate requirements fields
+    // const candidateReqs = data.candidateRequirements;
+    // const ageLimit = candidateReqs?.ageLimit;
+    // const educationArr = candidateReqs?.education;
+    // const experienceObj = candidateReqs?.experience;
+    // const languagesArr = candidateReqs?.languages;
+
+
+    // const facilitiesAndBenefits = data?.facilitiesAndBenefits;
+
     return {
         ...data,
-        // Using optional chaining to safely access nested properties
         userId: userId,
-        country: {
-            name: data.company?.name,
-        },
+        // title: data.title || "",
+        // description: data.description || "",
+        // responsibilities: data.responsibilities || "",
+        // type: data.type || "FULL-TIME",
+        // contractPeriod: data.contractPeriod || "",
+        // contractRenewalPolicy: data.contractRenewalPolicy || "",
+        // location: {
+        //     city: data.location.city || "",
+        //     state: data.location.state || "",
+        //     country: data.location.country || "",
+        //     remote: data.location.remote || false,
+        // },
+        // status: "PUBLISHED",
+        // salary: {
+        //     min: data.salary?.min ?? 0,
+        //     max: data.salary?.max ?? 0,
+        //     currency: data.salary?.currency || "INR",
+        //     frequency: data.salary?.frequency || "Monthly",
+
+        //     // FIX 2: Safely access deeply nested deduction properties (Handles jobs 16-99)
+        //     deduction: {
+        //         accommodationAllowance: {
+        //             // Use ?. to safely check the existence of accommodationAllowance
+        //             min: accommodationAllowance?.min ?? 0,
+        //             max: accommodationAllowance?.max ?? 0,
+        //             currency: accommodationAllowance?.currency || "INR",
+        //         },
+        //         medicalInsurance: {
+        //             // Use ?. to safely check the existence of medicalInsurance
+        //             min: medicalInsurance?.min ?? 0,
+        //             max: medicalInsurance?.max ?? 0,
+        //             currency: medicalInsurance?.currency || "INR",
+        //         },
+        //     },
+        // },
+
+        // // FIX 3: Safely access workingConditions properties
+        // workingConditions: {
+        //     // Use ?? 0 for numbers, || [] for arrays
+        //     dutyHoursPerDay: data.workingConditions?.dutyHoursPerDay ?? 0,
+        //     workingDaysPerMonth: data.workingConditions?.workingDaysPerMonth ?? 0,
+        //     breakTimeIncluded: data.workingConditions?.breakTimeIncluded ?? false, // Changed from || 0 to ?? false (better default)
+        //     leaveBenefits: data.workingConditions?.leaveBenefits || [],
+        // },
+
+        // // FIX 4: Safely access candidateRequirements properties
+        // candidateRequirements: {
+        //     gender: candidateReqs?.gender || "any",
+        //     ageLimit: {
+        //         min: ageLimit?.min ?? 0,
+        //         max: ageLimit?.max ?? 0,
+        //     },
+        //     education: educationArr && educationArr.length > 0 ? educationArr : [],
+        //     experience: {
+        //         minimumYears: experienceObj?.minimumYears ?? 0,
+        //         description: experienceObj?.description || [],
+        //     },
+        //     skills: candidateReqs?.skills || [],
+        //     languages: languagesArr && languagesArr.length > 0 ? languagesArr : [],
+        // },
+        // facilitiesAndBenefits: {
+        //     food: {
+        //         status: facilitiesAndBenefits?.food?.status || false,
+        //         deductible: facilitiesAndBenefits?.food?.deductible || false,
+        //         amount: facilitiesAndBenefits?.food?.amount || 0,
+        //         currency: facilitiesAndBenefits?.food?.currency || "INR",
+        //     },
+        //     accommodation: {
+        //         status: facilitiesAndBenefits?.accommodation?.status || false,
+        //         deductible: facilitiesAndBenefits?.accommodation?.deductible || false,
+        //         amount: facilitiesAndBenefits?.accommodation?.amount || 0,
+        //         currency: facilitiesAndBenefits?.accommodation?.currency || "INR",
+        //     },
+        //     medical_insurance: {
+        //         status: facilitiesAndBenefits?.medical_insurance?.status || false,
+        //         deductible: facilitiesAndBenefits?.medical_insurance?.deductible || false,
+        //         amount: facilitiesAndBenefits?.medical_insurance?.amount || 0,
+        //         currency: facilitiesAndBenefits?.medical_insurance?.currency || "INR",
+        //     },
+        //     travel: {
+        //         status: facilitiesAndBenefits?.travel?.status || false,
+        //         deductible: facilitiesAndBenefits?.travel?.deductible || false,
+        //         amount: facilitiesAndBenefits?.travel?.amount || 0,
+        //         currency: facilitiesAndBenefits?.travel?.currency || "INR",
+        //     },
+        //     visa: {
+        //         status: facilitiesAndBenefits?.visa?.status || false,
+        //         deductible: facilitiesAndBenefits?.visa?.deductible || false,
+        //         amount: facilitiesAndBenefits?.visa?.amount || 0,
+        //         currency: facilitiesAndBenefits?.visa?.currency || "INR",
+        //     },
+        //     passport: {
+        //         status: facilitiesAndBenefits?.passport?.status || false,
+        //         deductible: facilitiesAndBenefits?.passport?.deductible || false,
+        //         amount: facilitiesAndBenefits?.passport?.amount || 0,
+        //         currency: facilitiesAndBenefits?.passport?.currency || "INR",
+        //     },
+
+        // },
+        // expensesAndFees: {
+        //     approxExpenses: {
+        //         status: data.expensesAndFees?.approxExpenses?.status || false,
+        //         amount: data.expensesAndFees?.approxExpenses?.amount || 0,
+        //         currency: data.expensesAndFees?.approxExpenses?.currency || "INR",
+        //     },
+        //     registrationProcessingFee: {
+        //         status: data.expensesAndFees?.registrationProcessingFee?.status || false,
+        //         amount: data.expensesAndFees?.registrationProcessingFee?.amount || 0,
+        //         currency: data.expensesAndFees?.registrationProcessingFee?.currency || "INR",
+        //     },
+        //     registrationProcessingFeeGst: {
+        //         status: data.expensesAndFees?.registrationProcessingFeeGst?.status || false,
+        //         amount: data.expensesAndFees?.registrationProcessingFeeGst?.amount || 0,
+        //         currency: data.expensesAndFees?.registrationProcessingFeeGst?.currency || "INR",
+        //     },
+        // },
+        // selectionProcess: data.selectionProcess || [],
+        // country: {
+        //     name: data.company?.name,
+        // },
         jobCategory: {
             name: data.jobCategory?.name,
             id: categoryId

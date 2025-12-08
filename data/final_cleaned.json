@@ -24,7 +24,9 @@
       "dutyHoursPerDay": 10,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -155,7 +157,9 @@
       "dutyHoursPerDay": 11,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -286,7 +290,9 @@
       "dutyHoursPerDay": 12,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -417,7 +423,9 @@
       "dutyHoursPerDay": 13,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -548,7 +556,9 @@
       "dutyHoursPerDay": 14,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -679,7 +689,9 @@
       "dutyHoursPerDay": 15,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -810,7 +822,9 @@
       "dutyHoursPerDay": 16,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -941,7 +955,9 @@
       "dutyHoursPerDay": 17,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -1072,7 +1088,9 @@
       "dutyHoursPerDay": 18,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -1203,7 +1221,9 @@
       "dutyHoursPerDay": 19,
       "workingDaysPerMonth": null,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["45 days leave for every 2 years"],
+      "leaveBenefits": [
+        "45 days leave for every 2 years"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -1334,7 +1354,9 @@
       "dutyHoursPerDay": 10,
       "workingDaysPerMonth": 26,
       "breakTimeIncluded": false,
-      "leaveBenefits": ["Contract - 2 years (renewable)"],
+      "leaveBenefits": [
+        "Contract - 2 years (renewable)"
+      ],
       "educationReq": {}
     },
     "candidateRequirements": {
@@ -1407,7 +1429,10 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["DIRECT EMPLOYMENT VISA", "ECR/ECNR Passport Accepted"],
+    "notes": [
+      "DIRECT EMPLOYMENT VISA",
+      "ECR/ECNR Passport Accepted"
+    ],
     "jobReferralUtm": {},
     "mode_of_apply": "Portal",
     "company": {
@@ -2317,7 +2342,9 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["Self introduction video in English required"],
+    "notes": [
+      "Self introduction video in English required"
+    ],
     "mode_of_apply": "Portal",
     "company": {
       "name": "Abu Travel Service"
@@ -2464,7 +2491,9 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["Self introduction video in English required"],
+    "notes": [
+      "Self introduction video in English required"
+    ],
     "mode_of_apply": "Portal",
     "company": {
       "name": "Abu Travel Service"
@@ -2611,7 +2640,9 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["Self introduction video in English required"],
+    "notes": [
+      "Self introduction video in English required"
+    ],
     "mode_of_apply": "Portal",
     "company": {
       "name": "Abu Travel Service"
@@ -2900,7 +2931,9 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["Only Muslim candidates will work in Makkah & Medina"],
+    "notes": [
+      "Only Muslim candidates will work in Makkah & Medina"
+    ],
     "mode_of_apply": "Portal",
     "company": {
       "name": "Abu Travel Service"
@@ -3041,7 +3074,9 @@
       }
     },
     "selectionProcess": [],
-    "notes": ["Only Muslim candidates will work in Makkah & Medina"],
+    "notes": [
+      "Only Muslim candidates will work in Makkah & Medina"
+    ],
     "mode_of_apply": "Portal",
     "company": {
       "name": "Abu Travel Service"
@@ -3657,7 +3692,9 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years plumbing experience required"]
+        "description": [
+          "3\u20135 years plumbing experience required"
+        ]
       },
       "skills": [],
       "certifications": [
@@ -3793,7 +3830,9 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years experience in shuttering carpentry"]
+        "description": [
+          "3\u20135 years experience in shuttering carpentry"
+        ]
       },
       "skills": [],
       "certifications": [
@@ -4343,7 +4382,9 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years experience in split AC systems"]
+        "description": [
+          "3\u20135 years experience in split AC systems"
+        ]
       },
       "skills": [],
       "certifications": [
@@ -5087,7 +5128,9 @@
       ],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years experience in fire alarm systems"]
+        "description": [
+          "3\u20135 years experience in fire alarm systems"
+        ]
       },
       "skills": [],
       "certifications": [],
@@ -5192,10 +5235,16 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years tailoring experience"]
+        "description": [
+          "3\u20135 years tailoring experience"
+        ]
       },
-      "skills": ["Working video required"],
-      "certifications": ["Ayesha Trade Test"],
+      "skills": [
+        "Working video required"
+      ],
+      "certifications": [
+        "Ayesha Trade Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5296,10 +5345,16 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years cutting and tailoring experience"]
+        "description": [
+          "3\u20135 years cutting and tailoring experience"
+        ]
       },
-      "skills": ["Working video required"],
-      "certifications": ["Ayesha Trade Test"],
+      "skills": [
+        "Working video required"
+      ],
+      "certifications": [
+        "Ayesha Trade Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5400,10 +5455,16 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years tailoring experience"]
+        "description": [
+          "3\u20135 years tailoring experience"
+        ]
       },
-      "skills": ["Working video required"],
-      "certifications": ["Ayesha Trade Test"],
+      "skills": [
+        "Working video required"
+      ],
+      "certifications": [
+        "Ayesha Trade Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5493,10 +5554,16 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years experience"]
+        "description": [
+          "3\u20135 years experience"
+        ]
       },
-      "skills": ["Working video required"],
-      "certifications": ["Ayesha Trade Test"],
+      "skills": [
+        "Working video required"
+      ],
+      "certifications": [
+        "Ayesha Trade Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5583,10 +5650,16 @@
       "education": [],
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years tailoring experience"]
+        "description": [
+          "3\u20135 years tailoring experience"
+        ]
       },
-      "skills": ["Working video required"],
-      "certifications": ["Ayesha Trade Test"],
+      "skills": [
+        "Working video required"
+      ],
+      "certifications": [
+        "Ayesha Trade Test"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5661,10 +5734,14 @@
       "gender": "any",
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years relevant experience"]
+        "description": [
+          "3\u20135 years relevant experience"
+        ]
       },
       "skills": [],
-      "certifications": ["Visa Ready Immediate Departure"],
+      "certifications": [
+        "Visa Ready Immediate Departure"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5730,7 +5807,9 @@
       "gender": "any",
       "experience": {
         "minimumYears": 3,
-        "description": ["3\u20135 years experience"]
+        "description": [
+          "3\u20135 years experience"
+        ]
       },
       "skills": [],
       "certifications": [],
@@ -5876,7 +5955,9 @@
         "description": []
       },
       "skills": [],
-      "certifications": ["CV selection"],
+      "certifications": [
+        "CV selection"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -5967,7 +6048,9 @@
       "education": [],
       "experience": {},
       "skills": [],
-      "certifications": ["CV selection"],
+      "certifications": [
+        "CV selection"
+      ],
       "languages": []
     },
     "facilitiesAndBenefits": {
@@ -6076,8 +6159,8 @@
   },
   {
     "title": "PTW Coordinator at Qatar",
-    "description": "Hiring 20 PTW Coordinators for Qatar under Jaleel International.",
-    "responsibilities": "Managing Permit-to-Work system, coordinating safety approvals and workflows.",
+    "description": "Hiring PTW Coordinators for Qatar under Jaleel International.",
+    "responsibilities": "Managing Permit-to-Work documentation, coordinating approvals, ensuring safety compliance.",
     "type": "FULL-TIME",
     "contractPeriod": "",
     "contractRenewalPolicy": "",
@@ -6090,17 +6173,25 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
+    "overtimePolicy": "As per company policy",
     "candidateRequirements": {
       "gender": "any",
+      "ageLimit": {
+        "min": null,
+        "max": null
+      },
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
-      "certifications": ["Virtual interview"],
-      "languages": []
+      "languages": [],
+      "certifications": []
     },
     "facilitiesAndBenefits": {
       "food": {
@@ -6119,6 +6210,23 @@
         "status": true
       }
     },
+    "expensesAndFees": {
+      "approxExpenses": {
+        "status": false,
+        "amount": 0
+      },
+      "registrationProcessingFee": {
+        "status": false,
+        "amount": 0
+      },
+      "registrationProcessingFeeGst": {
+        "status": false,
+        "amount": 0
+      }
+    },
+    "selectionProcess": [],
+    "notes": [],
+    "mode_of_apply": "Portal",
     "company": {
       "name": "Jaleel International"
     },
@@ -6334,15 +6442,18 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {},
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6404,14 +6515,17 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6473,14 +6587,17 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6542,18 +6659,11 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "As per company policy",
-    "workingConditions": {
-      "dutyHoursPerDay": null,
-      "workingDaysPerMonth": null,
-      "breakTimeIncluded": false,
-      "leaveBenefits": [],
-      "educationReq": {}
-    },
     "candidateRequirements": {
       "gender": "any",
       "ageLimit": {
@@ -6602,7 +6712,6 @@
     },
     "selectionProcess": [],
     "notes": [],
-    "mode_of_apply": "Portal",
     "company": {
       "name": "Jaleel International"
     },
@@ -6643,15 +6752,18 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "overtimePolicy": "As per company policy",
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6713,14 +6825,17 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6782,14 +6897,17 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []
@@ -6851,14 +6969,17 @@
     "salary": {
       "min": null,
       "max": null,
-      "currency": "",
-      "frequency": "",
+      "currency": "QAR",
+      "frequency": "Monthly",
       "deduction": {}
     },
     "candidateRequirements": {
       "gender": "any",
       "education": [],
-      "experience": {},
+      "experience": {
+        "minimumYears": null,
+        "description": []
+      },
       "skills": [],
       "languages": [],
       "certifications": []

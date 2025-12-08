@@ -15,14 +15,17 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -69,473 +72,6 @@
         "dateOfExpiration": "2026-03-02"
     },
     {
-        "title": "Welding Inspector at Qatar",
-        "description": "Inspection of welding quality, standards, and safety compliance for projects in Qatar.",
-        "responsibilities": "Perform welding inspections, ensure compliance with standards, prepare reports.",
-        "type": "FULL-TIME",
-        "contractPeriod": "",
-        "contractRenewalPolicy": "",
-        "location": {
-            "city": "",
-            "state": "",
-            "country": "Qatar",
-            "remote": false
-        },
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": "QAR",
-            "frequency": "Monthly",
-            "deduction": {}
-        },
-        "overtimePolicy": "",
-        "workingConditions": {
-            "dutyHoursPerDay": null,
-            "workingDaysPerMonth": null,
-            "breakTimeIncluded": false,
-            "leaveBenefits": [],
-            "educationReq": {}
-        },
-        "candidateRequirements": {
-            "gender": "any",
-            "ageLimit": {
-                "min": null,
-                "max": null
-            },
-            "education": [],
-            "experience": {
-                "minimumYears": null,
-                "description": []
-            },
-            "skills": [],
-            "languages": []
-        },
-        "facilitiesAndBenefits": {
-            "food": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "accommodation": {
-                "status": true,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "medical_insurance": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "travel": {
-                "status": true,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "visa": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "passport": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            }
-        },
-        "expensesAndFees": {
-            "approxExpenses": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "registrationProcessingFee": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "registrationProcessingFeeGst": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            }
-        },
-        "selectionProcess": [],
-        "notes": [],
-        "jobReferralUtm": {},
-        "mode_of_apply": "",
-        "company": {
-            "name": "Jaleel International"
-        },
-        "contact": {
-            "name": "",
-            "email": "",
-            "phone": "",
-            "recruitingAgency": ""
-        },
-        "jobRole": {
-            "name": "Scaffolding Supervisor",
-            "id": "692d47d66cb8ef66cdc7e1b4"
-        },
-        "jobCategory": {
-            "name": "Scaffolding",
-            "id": "692d47bb6cb8ef66cdc7cef0"
-        },
-        "isActive": true,
-        "positions": 5,
-        "positionFilled": 0,
-        "userId": "692d8a44cfe8ae58d8028395",
-        "dateOfApplication": "2025-12-02",
-        "dateOfExpiration": "2026-03-02"
-    },
-    {
-        "title": "Welding Inspector at Qatar",
-        "description": "Inspection of welding quality, standards, and safety compliance for projects in Qatar.",
-        "responsibilities": "Perform welding inspections, ensure compliance with standards, prepare reports.",
-        "type": "FULL-TIME",
-        "contractPeriod": "",
-        "contractRenewalPolicy": "",
-        "location": {
-            "city": "",
-            "state": "",
-            "country": "Qatar",
-            "remote": false
-        },
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": "QAR",
-            "frequency": "Monthly",
-            "deduction": {}
-        },
-        "overtimePolicy": "",
-        "workingConditions": {
-            "dutyHoursPerDay": null,
-            "workingDaysPerMonth": null,
-            "breakTimeIncluded": false,
-            "leaveBenefits": [],
-            "educationReq": {}
-        },
-        "candidateRequirements": {
-            "gender": "any",
-            "ageLimit": {
-                "min": null,
-                "max": null
-            },
-            "education": [],
-            "experience": {
-                "minimumYears": null,
-                "description": []
-            },
-            "skills": [],
-            "languages": []
-        },
-        "facilitiesAndBenefits": {
-            "food": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "accommodation": {
-                "status": true,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "medical_insurance": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "travel": {
-                "status": true,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "visa": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "passport": {
-                "status": false,
-                "deductible": false,
-                "amount": 0,
-                "currency": "QAR"
-            }
-        },
-        "expensesAndFees": {
-            "approxExpenses": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "registrationProcessingFee": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            },
-            "registrationProcessingFeeGst": {
-                "status": false,
-                "amount": 0,
-                "currency": "QAR"
-            }
-        },
-        "selectionProcess": [],
-        "notes": [],
-        "jobReferralUtm": {},
-        "mode_of_apply": "",
-        "company": {
-            "name": "Jaleel International"
-        },
-        "contact": {
-            "name": "",
-            "email": "",
-            "phone": "",
-            "recruitingAgency": ""
-        },
-        "jobRole": {
-            "name": "Scaffolding Supervisor",
-            "id": "692d47d66cb8ef66cdc7e1b4"
-        },
-        "jobCategory": {
-            "name": "Scaffolding",
-            "id": "692d47d66cb8ef66cdc7e1b4"
-        },
-        "isActive": true,
-        "positions": 5,
-        "positionFilled": 0,
-        "userId": "692d8a44cfe8ae58d8028395",
-        "dateOfApplication": "2025-12-02",
-        "dateOfExpiration": "2026-03-02"
-    },
-    {
-        "title": "Store Supervisor P&M at Qatar",
-        "description": "Hiring Store Supervisors for Qatar under Jaleel International.",
-        "responsibilities": "Managing store operations, inventory, materials, and logistics.",
-        "type": "FULL-TIME",
-        "contractPeriod": "",
-        "contractRenewalPolicy": "",
-        "location": {
-            "city": "",
-            "state": "",
-            "country": "Qatar",
-            "remote": false
-        },
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": "",
-            "frequency": "",
-            "deduction": {}
-        },
-        "candidateRequirements": {
-            "gender": "any",
-            "education": [],
-            "experience": {},
-            "skills": [],
-            "certifications": [],
-            "languages": []
-        },
-        "facilitiesAndBenefits": {
-            "food": {
-                "status": false
-            },
-            "accommodation": {
-                "status": false
-            },
-            "medical_insurance": {
-                "status": false
-            },
-            "travel": {
-                "status": false
-            },
-            "visa": {
-                "status": false
-            }
-        },
-        "company": {
-            "name": "Jaleel International"
-        },
-        "contact": {
-            "name": "",
-            "email": "",
-            "phone": "",
-            "whatsapp": ""
-        },
-        "jobRole": {
-            "name": "Store Supervisor",
-            "id": "692d47c46cb8ef66cdc7dc11"
-        },
-        "jobCategory": {
-            "name": "Retail Counter",
-            "id": "692d47bb6cb8ef66cdc7cecc"
-        },
-        "isActive": true,
-        "positions": 5,
-        "positionFilled": 0,
-        "userId": "692d8a44cfe8ae58d8028395",
-        "dateOfApplication": "2025-12-02",
-        "dateOfExpiration": "2026-03-02"
-    },
-    {
-        "title": "Thob Tailor at Saudi Arabia",
-        "description": "Hiring 4 Thob Tailors for Madina.",
-        "responsibilities": "Cutting, stitching and finishing Thob garments for men.",
-        "type": "FULL-TIME",
-        "location": {
-            "city": "Madina",
-            "state": "Madina",
-            "country": "Saudi Arabia",
-            "remote": false
-        },
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": "Negotiable",
-            "frequency": "Monthly",
-            "deduction": {}
-        },
-        "candidateRequirements": {
-            "gender": "any",
-            "education": [],
-            "experience": {
-                "minimumYears": 3,
-                "description": [
-                    "3\u20135 years tailoring experience"
-                ]
-            },
-            "skills": [
-                "Working video required"
-            ],
-            "certifications": [
-                "Ayesha Trade Test"
-            ],
-            "languages": []
-        },
-        "facilitiesAndBenefits": {
-            "food": {
-                "status": true
-            },
-            "accommodation": {
-                "status": true
-            },
-            "medical_insurance": {
-                "status": true
-            },
-            "travel": {
-                "status": true
-            },
-            "visa": {
-                "status": true
-            },
-            "passport": {
-                "status": true
-            }
-        },
-        "company": {
-            "name": "Abu Travel Service"
-        },
-        "contact": {
-            "name": "",
-            "email": "",
-            "phone": "",
-            "whatsapp": ""
-        },
-        "jobRole": {
-            "name": "Thob Tailor",
-            "id": "692ec157994c270d67b5d07a"
-        },
-        "jobCategory": {
-            "name": "Tailor",
-            "id": "692d47bb6cb8ef66cdc7cee8"
-        },
-        "isActive": true,
-        "positions": 4,
-        "positionFilled": 0,
-        "userId": "692d8bb3f8b77dede6092bab",
-        "dateOfApplication": "2025-12-02",
-        "dateOfExpiration": "2026-03-02"
-    },
-    {
-        "title": "Document Controller at Qatar",
-        "description": "Hiring Document Controllers for Qatar under Jaleel International.",
-        "responsibilities": "Managing project documentation, filing, tracking, digital archiving, compliance documents.",
-        "type": "FULL-TIME",
-        "contractPeriod": "",
-        "contractRenewalPolicy": "",
-        "location": {
-            "city": "",
-            "state": "",
-            "country": "Qatar",
-            "remote": false
-        },
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": "",
-            "frequency": "",
-            "deduction": {}
-        },
-        "candidateRequirements": {
-            "gender": "any",
-            "education": [],
-            "experience": {},
-            "skills": [],
-            "languages": [],
-            "certifications": []
-        },
-        "facilitiesAndBenefits": {
-            "food": {
-                "status": true
-            },
-            "accommodation": {
-                "status": true
-            },
-            "medical_insurance": {
-                "status": true
-            },
-            "travel": {
-                "status": true
-            },
-            "visa": {
-                "status": true
-            }
-        },
-        "company": {
-            "name": "Jaleel International"
-        },
-        "contact": {
-            "name": "",
-            "email": "",
-            "phone": "",
-            "whatsapp": ""
-        },
-        "jobRole": {
-            "name": "Document Controller",
-            "id": "692d47bf6cb8ef66cdc7d796"
-        },
-        "jobCategory": {
-            "name": "Back Office Data Entry",
-            "id": "692d47ba6cb8ef66cdc7ceb2"
-        },
-        "isActive": true,
-        "positions": 5,
-        "positionFilled": 0,
-        "userId": "692d8a44cfe8ae58d8028395",
-        "dateOfApplication": "2025-12-02",
-        "dateOfExpiration": "2026-03-02"
-    },
-    {
         "title": "Electrical Commissioning Superintendent at Qatar",
         "description": "Hiring Electrical Commissioning Superintendents for Qatar under Jaleel International.",
         "responsibilities": "Supervision of electrical commissioning activities, validation, testing, and safety compliance.",
@@ -551,18 +87,11 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "overtimePolicy": "As per company policy",
-        "workingConditions": {
-            "dutyHoursPerDay": null,
-            "workingDaysPerMonth": null,
-            "breakTimeIncluded": false,
-            "leaveBenefits": [],
-            "educationReq": {}
-        },
         "candidateRequirements": {
             "gender": "any",
             "ageLimit": {
@@ -611,7 +140,6 @@
         },
         "selectionProcess": [],
         "notes": [],
-        "mode_of_apply": "Portal",
         "company": {
             "name": "Jaleel International"
         },
@@ -652,14 +180,17 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -721,14 +252,17 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -790,19 +324,22 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
+            "languages": [],
             "certifications": [
                 "Virtual interview"
-            ],
-            "languages": []
+            ]
         },
         "facilitiesAndBenefits": {
             "food": {
@@ -861,18 +398,11 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "overtimePolicy": "As per company policy",
-        "workingConditions": {
-            "dutyHoursPerDay": null,
-            "workingDaysPerMonth": null,
-            "breakTimeIncluded": false,
-            "leaveBenefits": [],
-            "educationReq": {}
-        },
         "candidateRequirements": {
             "gender": "any",
             "ageLimit": {
@@ -962,8 +492,8 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "overtimePolicy": "As per company policy",
@@ -974,7 +504,10 @@
                 "max": null
             },
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -1036,15 +569,18 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "ageLimit": {},
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -1106,15 +642,18 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "overtimePolicy": "As per company policy",
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -1176,14 +715,17 @@
         "salary": {
             "min": null,
             "max": null,
-            "currency": "",
-            "frequency": "",
+            "currency": "QAR",
+            "frequency": "Monthly",
             "deduction": {}
         },
         "candidateRequirements": {
             "gender": "any",
             "education": [],
-            "experience": {},
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
             "skills": [],
             "languages": [],
             "certifications": []
@@ -1250,13 +792,6 @@
             "deduction": {}
         },
         "overtimePolicy": "",
-        "workingConditions": {
-            "dutyHoursPerDay": null,
-            "workingDaysPerMonth": null,
-            "breakTimeIncluded": false,
-            "leaveBenefits": [],
-            "educationReq": {}
-        },
         "candidateRequirements": {
             "gender": "any",
             "ageLimit": {
@@ -1269,7 +804,8 @@
                 "description": []
             },
             "skills": [],
-            "languages": []
+            "languages": [],
+            "certifications": []
         },
         "facilitiesAndBenefits": {
             "food": {
@@ -1345,7 +881,413 @@
         },
         "jobCategory": {
             "name": "Construction / Scaffolding",
+            "id": "692d47bb6cb8ef66cdc7cef0"
+        },
+        "isActive": true,
+        "positions": 5,
+        "positionFilled": 0,
+        "userId": "692d8a44cfe8ae58d8028395",
+        "dateOfApplication": "2025-12-02",
+        "dateOfExpiration": "2026-03-02"
+    },
+    {
+        "title": "Document Controller at Qatar",
+        "description": "Hiring Document Controllers for Qatar under Jaleel International.",
+        "responsibilities": "Managing project documentation, filing, tracking, digital archiving, compliance documents.",
+        "type": "FULL-TIME",
+        "contractPeriod": "",
+        "contractRenewalPolicy": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Qatar",
+            "remote": false
+        },
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": "QAR",
+            "frequency": "Monthly",
+            "deduction": {}
+        },
+        "candidateRequirements": {
+            "gender": "any",
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": [],
+            "certifications": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": true
+            },
+            "accommodation": {
+                "status": true
+            },
+            "medical_insurance": {
+                "status": true
+            },
+            "travel": {
+                "status": true
+            },
+            "visa": {
+                "status": true
+            }
+        },
+        "company": {
+            "name": "Jaleel International"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "whatsapp": ""
+        },
+        "jobRole": {
+            "name": "Document Controller",
+            "id": "692d47bf6cb8ef66cdc7d796"
+        },
+        "jobCategory": {
+            "name": "Back Office Data Entry",
+            "id": "692d47ba6cb8ef66cdc7ceb2"
+        },
+        "isActive": true,
+        "positions": 5,
+        "positionFilled": 0,
+        "userId": "692d8a44cfe8ae58d8028395",
+        "dateOfApplication": "2025-12-02",
+        "dateOfExpiration": "2026-03-02"
+    },
+    {
+        "title": "Win PCS Coordinator at Qatar",
+        "description": "Hiring Win PCS Coordinators for Qatar under Jaleel International.",
+        "responsibilities": "Managing WinPCS documentation, data entry, completion systems tracking, and coordination.",
+        "type": "FULL-TIME",
+        "contractPeriod": "",
+        "contractRenewalPolicy": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Qatar",
+            "remote": false
+        },
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": "QAR",
+            "frequency": "Monthly",
+            "deduction": {}
+        },
+        "overtimePolicy": "As per company policy",
+        "candidateRequirements": {
+            "gender": "any",
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": [],
+            "certifications": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": true
+            },
+            "accommodation": {
+                "status": true
+            },
+            "medical_insurance": {
+                "status": true
+            },
+            "travel": {
+                "status": true
+            },
+            "visa": {
+                "status": true
+            }
+        },
+        "company": {
+            "name": "Jaleel International"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "whatsapp": ""
+        },
+        "jobRole": {
+            "name": "Win PCS Coordinator",
+            "id": "692ec150994c270d67b5d06a"
+        },
+        "jobCategory": {
+            "name": "Sales BD",
+            "id": "692d47bb6cb8ef66cdc7cec4"
+        },
+        "isActive": true,
+        "positions": 5,
+        "positionFilled": 0,
+        "userId": "692d8a44cfe8ae58d8028395",
+        "dateOfApplication": "2025-12-02",
+        "dateOfExpiration": "2026-03-02"
+    },
+    {
+        "title": "Commissioning Lead Engineer at Qatar",
+        "description": "Hiring Commissioning Lead Engineers for Qatar under Jaleel International.",
+        "responsibilities": "Lead commissioning operations, testing, validating mechanical and electrical systems.",
+        "type": "FULL-TIME",
+        "contractPeriod": "",
+        "contractRenewalPolicy": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Qatar",
+            "remote": false
+        },
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": "QAR",
+            "frequency": "Monthly",
+            "deduction": {}
+        },
+        "candidateRequirements": {
+            "gender": "any",
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": [],
+            "certifications": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": true
+            },
+            "accommodation": {
+                "status": true
+            },
+            "medical_insurance": {
+                "status": true
+            },
+            "travel": {
+                "status": true
+            },
+            "visa": {
+                "status": true
+            }
+        },
+        "company": {
+            "name": "Jaleel International"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "whatsapp": ""
+        },
+        "jobRole": {
+            "name": "Commissioning Engineer",
+            "id": "692d47c56cb8ef66cdc7dd07"
+        },
+        "jobCategory": {
+            "name": "Engineer",
+            "id": "692d47bb6cb8ef66cdc7ced2"
+        },
+        "isActive": true,
+        "positions": 10,
+        "positionFilled": 0,
+        "userId": "692d8a44cfe8ae58d8028395",
+        "dateOfApplication": "2025-12-02",
+        "dateOfExpiration": "2026-03-02"
+    },
+    {
+        "title": "E&I Engineers at Qatar",
+        "description": "Electrical and Instrumentation engineering roles for industrial projects in Qatar.",
+        "responsibilities": "E&I system handling, maintenance support, documentation, and coordination.",
+        "type": "FULL-TIME",
+        "contractPeriod": "",
+        "contractRenewalPolicy": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Qatar",
+            "remote": false
+        },
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": "QAR",
+            "frequency": "Monthly",
+            "deduction": {}
+        },
+        "candidateRequirements": {
+            "gender": "any",
+            "ageLimit": {
+                "min": null,
+                "max": null
+            },
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": [],
+            "certifications": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "accommodation": {
+                "status": true,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "medical_insurance": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "travel": {
+                "status": true,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "visa": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "passport": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "QAR"
+            }
+        },
+        "expensesAndFees": {
+            "approxExpenses": {
+                "status": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "registrationProcessingFee": {
+                "status": false,
+                "amount": 0,
+                "currency": "QAR"
+            },
+            "registrationProcessingFeeGst": {
+                "status": false,
+                "amount": 0,
+                "currency": "QAR"
+            }
+        },
+        "selectionProcess": [],
+        "notes": [],
+        "mode_of_apply": "",
+        "company": {
+            "name": "Jaleel International"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "recruitingAgency": ""
+        },
+        "jobRole": {
+            "name": "Scaffolding Supervisor",
             "id": "692d47d66cb8ef66cdc7e1b4"
+        },
+        "jobCategory": {
+            "name": "Construction / Scaffolding",
+            "id": "692d47bb6cb8ef66cdc7cef0"
+        },
+        "isActive": true,
+        "positions": 5,
+        "positionFilled": 0,
+        "userId": "692d8a44cfe8ae58d8028395",
+        "dateOfApplication": "2025-12-02",
+        "dateOfExpiration": "2026-03-02"
+    },
+    {
+        "title": "Rigging Supervisor at Qatar",
+        "description": "Hiring Rigging Supervisors for Qatar under Jaleel International.",
+        "responsibilities": "Supervision of rigging operations, lifting plans, safety compliance, workforce coordination.",
+        "type": "FULL-TIME",
+        "contractPeriod": "",
+        "contractRenewalPolicy": "",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Qatar",
+            "remote": false
+        },
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": "QAR",
+            "frequency": "Monthly",
+            "deduction": {}
+        },
+        "candidateRequirements": {
+            "gender": "any",
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": [],
+            "certifications": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": true
+            },
+            "accommodation": {
+                "status": true
+            },
+            "medical_insurance": {
+                "status": true
+            },
+            "travel": {
+                "status": true
+            },
+            "visa": {
+                "status": true
+            }
+        },
+        "company": {
+            "name": "Jaleel International"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "whatsapp": ""
+        },
+        "jobRole": {
+            "name": "Rigging Supervisor",
+            "id": "692d47e66cb8ef66cdc7e712"
+        },
+        "jobCategory": {
+            "name": "Rigger Signalman",
+            "id": "692d47bd6cb8ef66cdc7d371"
         },
         "isActive": true,
         "positions": 5,

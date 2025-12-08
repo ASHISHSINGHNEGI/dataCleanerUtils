@@ -1,0 +1,110 @@
+total jobs :  15
+formating the job data
+{
+  "title": "Rigging Supervisor at Qatar",
+  "description": "Hiring Rigging Supervisors for Qatar under Jaleel International.",
+  "responsibilities": "Supervision of rigging operations, lifting plans, safety compliance, workforce coordination.",
+  "type": "FULL-TIME",
+  "contractPeriod": "",
+  "contractRenewalPolicy": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Qatar",
+    "remote": false
+  },
+  "salary": {
+    "min": null,
+    "max": null,
+    "currency": "",
+    "frequency": "",
+    "deduction": {}
+  },
+  "candidateRequirements": {
+    "gender": "any",
+    "education": [],
+    "experience": {},
+    "skills": [],
+    "languages": [],
+    "certifications": []
+  },
+  "facilitiesAndBenefits": {
+    "food": {
+      "status": true
+    },
+    "accommodation": {
+      "status": true
+    },
+    "medical_insurance": {
+      "status": true
+    },
+    "travel": {
+      "status": true
+    },
+    "visa": {
+      "status": true
+    }
+  },
+  "company": {
+    "name": "Jaleel International"
+  },
+  "contact": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "whatsapp": ""
+  },
+  "jobRole": {
+    "id": "692d47e66cb8ef66cdc7e712",
+    "name": "Rigging Supervisor"
+  },
+  "jobCategory": {
+    "name": "Rigger Signalman",
+    "id": "692d47bd6cb8ef66cdc7d371"
+  },
+  "isActive": true,
+  "positions": 5,
+  "positionFilled": 0,
+  "userId": "692d8a44cfe8ae58d8028395",
+  "dateOfApplication": "2025-12-02",
+  "dateOfExpiration": "2026-03-02",
+  "mandatoryQuestions": [
+    "Do you have a passport?",
+    "Do you have a resume?"
+  ],
+  "requiredDocuments": [
+    {
+      "name": "resume",
+      "docId": "692c527c28dc81e767fff278"
+    }
+  ]
+}
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+formating the job data
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400
+Bad Request, 400

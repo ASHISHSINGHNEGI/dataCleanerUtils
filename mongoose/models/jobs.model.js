@@ -1,5 +1,10 @@
-import { GENDER_OPTIONS, JOB_STATUS, JOB_TYPES, LANGUAGE_LEVEL } from "@/types";
 import mongoose, { Schema } from "mongoose";
+import {
+  GENDER_OPTIONS,
+  JOB_STATUS,
+  JOB_TYPES,
+  LANGUAGE_LEVEL,
+} from "../../types/index.js";
 
 const JobsSchema = new Schema(
   {
@@ -87,7 +92,10 @@ const JobsSchema = new Schema(
       leaveBenefits: { type: [String] },
     },
     candidateRequirements: {
-      gender: { type: String, enum: GENDER_OPTIONS },
+      gender: {
+        type: String,
+        enum: GENDER_OPTIONS,
+      },
       ageLimit: {
         min: { type: Number },
         max: { type: Number },
@@ -267,12 +275,12 @@ const JobsSchema = new Schema(
     dateOfExpiration: {
       type: Date,
       required: true,
-      validate: {
-        validator: function (v: Date) {
-          return v > new Date();
-        },
-        message: "Expiration date must be in the future",
-      },
+      // validate: {
+      //   validator: function (v: Date) {
+      //     return v > new Date();
+      //   },
+      //   message: "Expiration date must be in the future",
+      // },
       default: new Date(Date.now() + 90 * 24 * 60 * 60 * 1000),
     },
     isFeatured: {
@@ -298,7 +306,7 @@ const JobsSchema = new Schema(
 
     //these are the questions that are mandatory for the candidate to answer if question are present in the job
     mandatoryQuestions: [String], //remove the format as per demand
-   
+
     //these are the documents that are mandatory for the candidate to upload if documents are present in the job
     requiredDocuments: [
       {
@@ -323,7 +331,7 @@ const JobsSchema = new Schema(
 JobsSchema.pre(
   ["findOneAndUpdate", "updateOne", "updateMany"],
   function (next) {
-    const update = this.getUpdate() as any;
+    const update = this.getUpdate();
 
     if (!update) {
       return next();

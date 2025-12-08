@@ -12,7 +12,6 @@ const jobCategorySchema = new mongoose.Schema(
     },
     refCode: {
       type: String,
-      // required: true,
       unique: true,
       index: true,
       uppercase: true,

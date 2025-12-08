@@ -1,7 +1,7 @@
-const authToken = "eyJraWQiOiJtelladG1yeTZFaGhPTHNDV3ZlRGdBNWZCbXZ1WENDVDBVNFZGOGVoRkI4PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJlMWMzNmQ5YS1kMGExLTcwNzQtMzllOS1lNzYzMTU5N2EwYWMiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xXzcyV3VQbTZHNSIsImNsaWVudF9pZCI6IjQxaTBlbGllN2lwdmUyM3JvMmNnbGRjbG4xIiwib3JpZ2luX2p0aSI6IjlmYTdhYmE3LTRmOTAtNDFiZS05MGFmLWUzMWQxOGQ2YmQ1YiIsImV2ZW50X2lkIjoiZTkyMGZmMTUtNDY2ZC00OThkLWJiMDktMDdjNmI5MmVlNTIzIiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc2MzU1OSwiZXhwIjoxNzY0NzcxMzc4LCJpYXQiOjE3NjQ3Njc3NzgsImp0aSI6IjA4ZDM3ZTExLWNjYTctNDY0NC1iNGJhLTk2YWRlZDhjNjkxNyIsInVzZXJuYW1lIjoiZTFjMzZkOWEtZDBhMS03MDc0LTM5ZTktZTc2MzE1OTdhMGFjIn0.ttRffzi4TZuNA9tsUawYdMKnDuad-6gVgpm0f9BD7uSGPn4IANEghbFmE0AFSh4eAClIZQ783JaPrWthl-nIxn3EqR1g-2lYFKw0E3Mum-otsll5dnBsGIuR2jrpZ3ssQo5qCnaNCW1bExDaKWwLq6dtqnLRwc3Xw0RSrJxc54Gmq352Nfe9KzIBNXYUNPzQIYvulwrO0hhf998kKPg34FT1KvYVAZqBbE8fZ908g1uRsnYUNExIXvRDEgFaOi0YRBJDkXk1mETbvoe9HAmxdYSD47xuI233Xdm-iLQPx_Bu5aeJClvmn5afQ0FgU_CJ_asDdWXyboaUHIL_9vBRRA"
-const authToken_prod = "eyJraWQiOiJWMmF6Q2NDXC96ajlGZVRBM0FZS0thcU5ZUGdyd1haSGV5NlczbzhkbXVOcz0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMTUzZmRmYS02MDIxLTcwMzMtMDUzMC0zOGE2ZmI4ZTI2NzAiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xX01raUVlVUcyMSIsImNsaWVudF9pZCI6IjJjdjRpc2RtZmIzMDdiaWNwMWVqMzg1a3R2Iiwib3JpZ2luX2p0aSI6Ijg1OWYzM2ExLTQwMjMtNDhjZC04ZTU2LTZiMTM3YzI1Yzk1YyIsImV2ZW50X2lkIjoiMTMyNjRhMTMtMDUwMS00ZjdkLTlhNzYtMTMzN2U5MTFhZjk2IiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc1Njg3OCwiZXhwIjoxNzY0NzY0MTM3LCJpYXQiOjE3NjQ3NjA1MzcsImp0aSI6IjljZGNiOWU4LTBlZjEtNGEzMS04ZTc2LWYzYWM0MjQzZjM3YSIsInVzZXJuYW1lIjoiMTE1M2ZkZmEtNjAyMS03MDMzLTA1MzAtMzhhNmZiOGUyNjcwIn0.kyXqEC81XdMFooLFAoRmImHUX2Nsgs3gcpOiiGdjDwxqzSreDGjDgs4qrahnvPsG_X8W5EtmLG-8om57qEkAtLRENdtriWCE4Y7DSZMu8Sl-57iog3CIGHpEFTp5DdGCf1oKCD9y0JSWhJYBgPojPequ2HT-vQ5n8jstPIzWBA32mq1RVaedFvtRY_dZUSllIRN1oV0ImEDC1OHSMXVFx3dVY-V36OorYhJhHaC_d-3Z43-P-afqsK6X1jn0yBF_n9xDmcbKUjRjnZnTlrJmmswixafIRrKkhb-CnfQaNP-9gdeFV5ZF82CBenF_ZbvNdqw099nVAeb3nHmcyDaT0A"
+const authToken = "eyJraWQiOwith { type: "json" };iJtelladG1yeTZFaGhPTHNDV3ZlRGdBNWZCbXZ1WENDVDBVNFZGOGVoRkI4PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiJlMWMzNmQ5YS1kMGExLTcwNzQtMzllOS1lNzYzMTU5N2EwYWMiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xXzcyV3VQbTZHNSIsImNsaWVudF9pZCI6IjQxaTBlbGllN2lwdmUyM3JvMmNnbGRjbG4xIiwib3JpZ2luX2p0aSI6IjlmYTdhYmE3LTRmOTAtNDFiZS05MGFmLWUzMWQxOGQ2YmQ1YiIsImV2ZW50X2lkIjoiZTkyMGZmMTUtNDY2ZC00OThkLWJiMDktMDdjNmI5MmVlNTIzIiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc2MzU1OSwiZXhwIjoxNzY0Nzc1NDYyLCJpYXQiOjE3NjQ3NzE4NjIsImp0aSI6ImRlYjY2MzY2LTk4NDMtNGZjOC05YTU2LTJiMGMwYWI3OGUxYiIsInVzZXJuYW1lIjoiZTFjMzZkOWEtZDBhMS03MDc0LTM5ZTktZTc2MzE1OTdhMGFjIn0.yry7ITHIZJUfsxqqQBHkiy5_uHBTq5xa5-9u7KNzeonFddu_RVLOFqd7bQFSuP20CdScesJKww_EnuI-zch2UlErY2QSsAjIpp2Ds0v8eXLyxj67SsaW0nuRrBoqaRoM15dgUQ05v5VW1Kfg62spn2s9biklLuIDhD9kkdrUkgC4yV1vo4csGsMXqUS7emqo_a_dpFbcoa5QNBJBkYEosdFv37Q3594LbMI_gJgCJuXwc-CwjEEhmtWdlAKxtLPA6sMqpeuh_QOMOaxoymfhw03cxJwFGLgAbC7_J-6A7qnu_47MjkuXPaqjK3eyOiMYvAGDjadNptMPBsk7h10jCw"
+const authToken_prod = "eyJraWQiOiJWMmF6Q2NDXC96ajlGZVRBM0FZS0thcU5ZUGdyd1haSGV5NlczbzhkbXVOcz0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMTUzZmRmYS02MDIxLTcwMzMtMDUzMC0zOGE2ZmI4ZTI2NzAiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAuYXAtc291dGgtMS5hbWF6b25hd3MuY29tXC9hcC1zb3V0aC0xX01raUVlVUcyMSIsImNsaWVudF9pZCI6IjJjdjRpc2RtZmIzMDdiaWNwMWVqMzg1a3R2Iiwib3JpZ2luX2p0aSI6Ijg1OWYzM2ExLTQwMjMtNDhjZC04ZTU2LTZiMTM3YzI1Yzk1YyIsImV2ZW50X2lkIjoiMTMyNjRhMTMtMDUwMS00ZjdkLTlhNzYtMTMzN2U5MTFhZjk2IiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJhd3MuY29nbml0by5zaWduaW4udXNlci5hZG1pbiIsImF1dGhfdGltZSI6MTc2NDc1Njg3OCwiZXhwIjoxNzY0Nzc2NDM4LCJpYXQiOjE3NjQ3NzI4MzgsImp0aSI6ImY2YTJiN2Y0LTRlZjEtNGQ2OS1hZjYzLTUwMWQxYzZmZWNhMyIsInVzZXJuYW1lIjoiMTE1M2ZkZmEtNjAyMS03MDMzLTA1MzAtMzhhNmZiOGUyNjcwIn0.Wj5vAri4t5roe0ASiXxFo9USkvdyp6HQWNG_8kHPxKhjvO4WLwK0eGdKQgBFBB0ILWHB-V7dLEiIg25QXkk6veOSM77ODzGcyEt0ja5upEpSRs3IiBy6CWGRmA73t2Wh5SkrthIwpxt6vyJxBcaAe9MGO9l4lB4CNts1ezvW0SASIxke0SiU4XfGQAtiVQwAhr9UA28h_mBG2XuOf_9Di2oovo_wYaMKVteYhza7-jMwKS6G0BAyj2QCupk6ty_9-jS1OQUi6lEFw4_d8vGh2gidqFRSKNfAYz-09oYYm2DkAKwA_u_mnpKHzTHE3vknvT1-bafyLqB4-ItBEHSoVA"
 import { Types } from "mongoose";
-import jobs from "../../data/errorLIst.json" with { type: "json" };
+import jobs from "../../data/final_cleaned.json" with { type: "json" };
 import * as fs from 'node:fs/promises';
 
 async function postJobs() {
@@ -14,12 +14,12 @@ async function postJobs() {
         try {
             const data = formatTheDataIntoJobSchema(job)
             // console.log(data)
-            const response = await fetch(url_dev, {
+            const response = await fetch(url_prod, {
                 method: "POST",
                 body: JSON.stringify(data),
                 headers: {
                     "Content-Type": "application/json",
-                    'Authorization': `Bearer ${authToken}`
+                    'Authorization': `Bearer ${authToken_prod}`
                 }
             });
             const result = await response.json();
@@ -55,10 +55,14 @@ const formatTheDataIntoJobSchema = (data) => {
     if (!data.userId) {
         throw new Error("User ID is missing.");
     }
+    if (!data.jobRole?.id) {
+        throw new Error("Job role ID is missing.");
+    }
 
     // Convert to ObjectId synchronously
     const categoryId = new Types.ObjectId(data.jobCategory.id);
     const userId = new Types.ObjectId(data.userId);
+    const jobRoleId = new Types.ObjectId(data.jobRole.id);
 
     // Define safe, empty default objects for deduction fields
     // const deduction = data.salary?.deduction;
@@ -203,8 +207,7 @@ const formatTheDataIntoJobSchema = (data) => {
             id: categoryId
         },
         jobRole: {
-            // Note: You are using jobCategory ID here, ensure this is correct for your schema
-            "id": categoryId,
+            "id": jobRoleId,
             "name": data.jobRole?.name,
         },
         company: {

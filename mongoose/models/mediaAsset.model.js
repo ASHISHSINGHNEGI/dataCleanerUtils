@@ -1,5 +1,9 @@
 import { Schema, model } from "mongoose";
-import { BUCKET_TYPES, DOCUMENT_STATUS, MEDIA_FORM } from "../../types";
+import {
+  BUCKET_TYPES,
+  DOCUMENT_STATUS,
+  MEDIA_FORM,
+} from "../../types/index.js";
 
 const MediaAssetSchema = new Schema(
   {

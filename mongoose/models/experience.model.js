@@ -1,4 +1,4 @@
-import { JOB_TYPES } from "@/types";
+import { JOB_TYPES } from "../../types/index.js";
 import mongoose, { Schema } from "mongoose";
 
 export const ExperienceDetailSchema = new Schema(

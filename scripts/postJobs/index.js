@@ -64,144 +64,11 @@ const formatTheDataIntoJobSchema = (data) => {
     const userId = new Types.ObjectId(data.userId);
     const jobRoleId = new Types.ObjectId(data.jobRole.id);
 
-    // Define safe, empty default objects for deduction fields
-    // const deduction = data.salary?.deduction;
-    // const accommodationAllowance = deduction?.accommodationAllowance;
-    // const medicalInsurance = deduction?.medicalInsurance;
-
-    // // Define safe, empty default objects for candidate requirements fields
-    // const candidateReqs = data.candidateRequirements;
-    // const ageLimit = candidateReqs?.ageLimit;
-    // const educationArr = candidateReqs?.education;
-    // const experienceObj = candidateReqs?.experience;
-    // const languagesArr = candidateReqs?.languages;
-
-
-    // const facilitiesAndBenefits = data?.facilitiesAndBenefits;
 
     return {
         ...data,
         userId: userId,
-        // title: data.title || "",
-        // description: data.description || "",
-        // responsibilities: data.responsibilities || "",
-        // type: data.type || "FULL-TIME",
-        // contractPeriod: data.contractPeriod || "",
-        // contractRenewalPolicy: data.contractRenewalPolicy || "",
-        // location: {
-        //     city: data.location.city || "",
-        //     state: data.location.state || "",
-        //     country: data.location.country || "",
-        //     remote: data.location.remote || false,
-        // },
-        // status: "PUBLISHED",
-        // salary: {
-        //     min: data.salary?.min ?? 0,
-        //     max: data.salary?.max ?? 0,
-        //     currency: data.salary?.currency || "INR",
-        //     frequency: data.salary?.frequency || "Monthly",
-
-        //     // FIX 2: Safely access deeply nested deduction properties (Handles jobs 16-99)
-        //     deduction: {
-        //         accommodationAllowance: {
-        //             // Use ?. to safely check the existence of accommodationAllowance
-        //             min: accommodationAllowance?.min ?? 0,
-        //             max: accommodationAllowance?.max ?? 0,
-        //             currency: accommodationAllowance?.currency || "INR",
-        //         },
-        //         medicalInsurance: {
-        //             // Use ?. to safely check the existence of medicalInsurance
-        //             min: medicalInsurance?.min ?? 0,
-        //             max: medicalInsurance?.max ?? 0,
-        //             currency: medicalInsurance?.currency || "INR",
-        //         },
-        //     },
-        // },
-
-        // // FIX 3: Safely access workingConditions properties
-        // workingConditions: {
-        //     // Use ?? 0 for numbers, || [] for arrays
-        //     dutyHoursPerDay: data.workingConditions?.dutyHoursPerDay ?? 0,
-        //     workingDaysPerMonth: data.workingConditions?.workingDaysPerMonth ?? 0,
-        //     breakTimeIncluded: data.workingConditions?.breakTimeIncluded ?? false, // Changed from || 0 to ?? false (better default)
-        //     leaveBenefits: data.workingConditions?.leaveBenefits || [],
-        // },
-
-        // // FIX 4: Safely access candidateRequirements properties
-        // candidateRequirements: {
-        //     gender: candidateReqs?.gender || "any",
-        //     ageLimit: {
-        //         min: ageLimit?.min ?? 0,
-        //         max: ageLimit?.max ?? 0,
-        //     },
-        //     education: educationArr && educationArr.length > 0 ? educationArr : [],
-        //     experience: {
-        //         minimumYears: experienceObj?.minimumYears ?? 0,
-        //         description: experienceObj?.description || [],
-        //     },
-        //     skills: candidateReqs?.skills || [],
-        //     languages: languagesArr && languagesArr.length > 0 ? languagesArr : [],
-        // },
-        // facilitiesAndBenefits: {
-        //     food: {
-        //         status: facilitiesAndBenefits?.food?.status || false,
-        //         deductible: facilitiesAndBenefits?.food?.deductible || false,
-        //         amount: facilitiesAndBenefits?.food?.amount || 0,
-        //         currency: facilitiesAndBenefits?.food?.currency || "INR",
-        //     },
-        //     accommodation: {
-        //         status: facilitiesAndBenefits?.accommodation?.status || false,
-        //         deductible: facilitiesAndBenefits?.accommodation?.deductible || false,
-        //         amount: facilitiesAndBenefits?.accommodation?.amount || 0,
-        //         currency: facilitiesAndBenefits?.accommodation?.currency || "INR",
-        //     },
-        //     medical_insurance: {
-        //         status: facilitiesAndBenefits?.medical_insurance?.status || false,
-        //         deductible: facilitiesAndBenefits?.medical_insurance?.deductible || false,
-        //         amount: facilitiesAndBenefits?.medical_insurance?.amount || 0,
-        //         currency: facilitiesAndBenefits?.medical_insurance?.currency || "INR",
-        //     },
-        //     travel: {
-        //         status: facilitiesAndBenefits?.travel?.status || false,
-        //         deductible: facilitiesAndBenefits?.travel?.deductible || false,
-        //         amount: facilitiesAndBenefits?.travel?.amount || 0,
-        //         currency: facilitiesAndBenefits?.travel?.currency || "INR",
-        //     },
-        //     visa: {
-        //         status: facilitiesAndBenefits?.visa?.status || false,
-        //         deductible: facilitiesAndBenefits?.visa?.deductible || false,
-        //         amount: facilitiesAndBenefits?.visa?.amount || 0,
-        //         currency: facilitiesAndBenefits?.visa?.currency || "INR",
-        //     },
-        //     passport: {
-        //         status: facilitiesAndBenefits?.passport?.status || false,
-        //         deductible: facilitiesAndBenefits?.passport?.deductible || false,
-        //         amount: facilitiesAndBenefits?.passport?.amount || 0,
-        //         currency: facilitiesAndBenefits?.passport?.currency || "INR",
-        //     },
-
-        // },
-        // expensesAndFees: {
-        //     approxExpenses: {
-        //         status: data.expensesAndFees?.approxExpenses?.status || false,
-        //         amount: data.expensesAndFees?.approxExpenses?.amount || 0,
-        //         currency: data.expensesAndFees?.approxExpenses?.currency || "INR",
-        //     },
-        //     registrationProcessingFee: {
-        //         status: data.expensesAndFees?.registrationProcessingFee?.status || false,
-        //         amount: data.expensesAndFees?.registrationProcessingFee?.amount || 0,
-        //         currency: data.expensesAndFees?.registrationProcessingFee?.currency || "INR",
-        //     },
-        //     registrationProcessingFeeGst: {
-        //         status: data.expensesAndFees?.registrationProcessingFeeGst?.status || false,
-        //         amount: data.expensesAndFees?.registrationProcessingFeeGst?.amount || 0,
-        //         currency: data.expensesAndFees?.registrationProcessingFeeGst?.currency || "INR",
-        //     },
-        // },
-        // selectionProcess: data.selectionProcess || [],
-        // country: {
-        //     name: data.company?.name,
-        // },
+    
         jobCategory: {
             name: data.jobCategory?.name,
             id: categoryId
@@ -227,7 +94,7 @@ const formatTheDataIntoJobSchema = (data) => {
 }
 
 
-async function writeFailureMessage({ job, message }) {
+export async function writeFailureMessage({ job, message }) {
     // Check if job exists (for generic catch errors) and log title, otherwise just log message
     const title = job ? job.title : 'Unknown Job (Pre-Fetch Error)';
     await fs.appendFile('./response/error.txt',

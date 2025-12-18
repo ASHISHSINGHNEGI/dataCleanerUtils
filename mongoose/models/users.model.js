@@ -1,8 +1,8 @@
-import mongoose from "mongoose";
-import { EducationDetailSchema } from "./education.model";
-import { ExperienceDetailSchema } from "./experience.model";
-import { GENDER_OPTIONS } from "../../types";
-import { logger, ensureMembership } from "../../helpers/logger";
+import mongoose, { Schema } from "mongoose";
+import { EducationDetailSchema } from "./education.model.js";
+import { ExperienceDetailSchema } from "./experience.model.js";
+import { GENDER_OPTIONS } from "../../types/index.js";
+import { logger } from "../../helpers/logger.js";
 
 const userSchema = new mongoose.Schema(
   {
@@ -225,42 +225,46 @@ const userSchema = new mongoose.Schema(
  * Pre-save middleware
  * Handles referral code generation and community management
  */
-userSchema.pre("save", async function (next) {
-  console.log("Saving user:", this);
+// userSchema.pre("save", async function (next) {
+//   console.log("Saving user:", this);
 
-  try {
-    if (this.isModified("targetCountry") || this.isModified("targetJobRole")) {
-      logger({ info: "Updating user's target country and job role" });
-      const country = this.targetCountry?.name;
-      const job = this.targetJobRole?.name;
-      // Only proceed when both exist
-      if (country && job) {
-        const community = await findOrCreateCommunity(job, country);
-        if (community) {
-          // ensure membership (unique index will protect duplicates)
-          await ensureMembership(this._id, community._id);
-          // update the *in-memory* document so .save() persists it
-          await addCommunityToUserDoc(this, community);
-        }
-      }
-    }
-    next();
-  } catch (err) {
-    next(err);
-  }
-});
+//   try {
+//     if (this.isModified("targetCountry") || this.isModified("targetJobRole")) {
+//       logger({ info: "Updating user's target country and job role" });
+//       const country = this.targetCountry?.name;
+//       const job = this.targetJobRole?.name;
+//       // Only proceed when both exist
+//       if (country && job) {
+//         const community = await findOrCreateCommunity(job, country);
+//         if (community) {
+//           // ensure membership (unique index will protect duplicates)
+//           await ensureMembership(this._id, community._id);
+//           // update the *in-memory* document so .save() persists it
+//           await addCommunityToUserDoc(this, community);
+//         }
+//       }
+//     }
+//     next();
+//   } catch (err) {
+//     next(err);
+//   }
+// });
 
 // 2) Query updates: after updates, fetch the updated user(s) and ensure community + membership
 // We use post hooks so the DB update has already applied and we can read the final values.
 userSchema.post(
   ["findOneAndUpdate", "updateOne", "updateMany"],
   async function () {
-    console.log("updating user details:", this);
+    console.log("updating user details:", this.getQuery());
     try {
       const query = this.getQuery(); // the filter used in the update
-      if (!query) return;
+      if (!query) {
+        console.log("query not found");
+        return;
+      }
 
       const users = await mongoose.model("User").find(query);
+      console.log("users response from : ", users);
       for (const user of users) {
         console.log("user", user);
         const country = user.targetCountry?.name;

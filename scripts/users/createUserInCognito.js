@@ -19,27 +19,42 @@ export async function createUserInCognito({
       UserAttributes: [{ Name: "phone_number", Value: phoneNumber }],
     };
     console.log({ payload });
+
     console.log("now calling signup command");
-
-    const response = await signUp({
-      ClientId,
-      fullPhone: phoneNumber,
-    });
-
-    console.log("response from signup command: ", response);
-    if (!response) {
-      console.error(`${response.statusText}, ${response.status}`);
-      await writeFailureMessage({
-        message: `cognito -Status: failed -phonenumber: ${phoneNumber}`,
+    let response;
+    try {
+      response = await signUp({
+        ClientId,
+        fullPhone: phoneNumber,
       });
-      return;
+    } catch (error) {
+      console.log({
+        message: "error while creating user in cognito",
+        faultCause: error["$fault"],
+        statusCode: error.$metadata.httpStatusCode,
+        name: error.name,
+        message: error.message,
+        __type: error.__type,
+      });
+
+      //handling the user already exist exception from cognito
+      if (error.name === "UsernameExistsException") {
+        console.error("User already exists(cognito)");
+        await writeSuccessMessage({
+          message: `cognito- status:${error.message} phoneNUmber : ${phoneNumber}`,
+        });
+        return;
+      }
+      throw error;
     }
-    console.log("User created in cognito successfully: ");
+    console.log("User created in cognito successfully");
+    console.log(response);
     await writeSuccessMessage({
       message: `cognito- status: success - phoneNUmber : ${phoneNumber}`,
     });
   } catch (error) {
-    console.error(`Posting Error for ${phoneNumber}:`, error);
+    // console.error(`Posting Error for ${phoneNumber}:`, error);
+    console.log("keys of error : ", Object.entries(error));
     throw new Error(
       `Cognito -Status: ${error.message} -phonenumber: ${phoneNumber}`
     );

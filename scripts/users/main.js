@@ -50,7 +50,8 @@ async function main() {
       };
       await patchUserDirectlyDB({ body: payload });
     } catch (error) {
-      await writeFailureMessage({message: error});
+      // await writeFailureMessage({message: error});
+      console.log(error)
     }
   }
   return

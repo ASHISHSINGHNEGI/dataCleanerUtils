@@ -1,0 +1,142 @@
+[
+    {
+        "userId": "692d8bb7f8b77dede6093161",
+        "title": "Avengers In Nowhere ",
+        "description": "You will be avenger.",
+        "responsibilities": "defeat thanos",
+        "type": "FULL-TIME",
+        "contractPeriod": "lifetime",
+        "contractRenewalPolicy": "tilldeath",
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "UAE",
+            "remote": false
+        },
+        "salary": {
+            "min": 1650,
+            "max": 1650,
+            "currency": "AED",
+            "frequency": "Month"
+        },
+        "overtimePolicy": "OT provided as per company policy",
+        "workingConditions": {
+            "dutyHoursPerDay": 11,
+            "workingDaysPerMonth": null,
+            "breakTimeIncluded": false,
+            "leaveBenefits": [
+                "45 days leave for every 2 years"
+            ]
+        },
+        "candidateRequirements": {
+            "gender": "any",
+            "ageLimit": {
+                "min": null,
+                "max": null
+            },
+            "education": [],
+            "experience": {
+                "minimumYears": null,
+                "description": []
+            },
+            "skills": [],
+            "languages": []
+        },
+        "facilitiesAndBenefits": {
+            "food": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "accommodation": {
+                "status": true,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "medical_insurance": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "travel": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "visa": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "passport": {
+                "status": false,
+                "deductible": false,
+                "amount": 0,
+                "currency": "AED"
+            }
+        },
+        "expensesAndFees": {
+            "approxExpenses": {
+                "status": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "registrationProcessingFee": {
+                "status": false,
+                "amount": 0,
+                "currency": "AED"
+            },
+            "registrationProcessingFeeGst": {
+                "status": false,
+                "amount": 0,
+                "currency": "AED"
+            }
+        },
+        "selectionProcess": [],
+        "notes": [
+            "Contract - Two years (Renewable)",
+            "Probation - 6 Months from the Date of Joining",
+            "Vacation - 45 Days for every 2 years"
+        ],
+        "mode_of_apply": "Portal",
+        "company": {
+            "name": "PINAZIL INTERNATIONAL PRIVATE LIMITED"
+        },
+        "contact": {
+            "name": "",
+            "email": "",
+            "phone": "",
+            "recruitingAgency": ""
+        },
+        "jobRole": {
+            "name": "Mason",
+            "id": "692d47bb6cb8ef66cdc7ceb8"
+        },
+        "jobCategory": {
+            "name": "Mason",
+            "id": "692d47bb6cb8ef66cdc7ceb8"
+        },
+        "isActive": true,
+        "dateOfApplication": "2025-12-02T00:00:00.000Z",
+        "dateOfExpiration": "2026-03-02T00:00:00.000Z",
+        "isArchived": false,
+        "positions": 90,
+        "positionFilled": 0,
+        "mandatoryQuestions": [
+            "Do you have a passport?",
+            "Do you have a resume?"
+        ],
+        "requiredDocuments": [
+            {
+                "name": "resume",
+                "docId": "692c527c28dc81e767fff278",
+                "_id": "69303894e55abdf3961065f7"
+            }
+        ]
+    }
+]

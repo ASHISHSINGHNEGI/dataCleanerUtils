@@ -28,15 +28,6 @@ export async function createUserInCognito({
         fullPhone: phoneNumber,
       });
     } catch (error) {
-      console.log({
-        message: "error while creating user in cognito",
-        faultCause: error["$fault"],
-        statusCode: error.$metadata.httpStatusCode,
-        name: error.name,
-        message: error.message,
-        __type: error.__type,
-      });
-
       //handling the user already exist exception from cognito
       if (error.name === "UsernameExistsException") {
         console.error("User already exists(cognito)");

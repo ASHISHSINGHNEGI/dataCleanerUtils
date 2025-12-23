@@ -19,19 +19,13 @@ export async function writeSuccessMessage({ message }) {
 }
 
 async function main() {
-  console.log("clearing the previous logs")
+  // console.log("clearing the previous logs")
    
   console.log("Starting the creation of User in cognito and db");
   const cognitoUrl = process.env.COGNITO_URL;
-  const token = process.env.ACCESS_TOKEN;
   const candidateUrl = process.env.CANDIDATE_URL;
   const ClientId = process.env.CLIENT_ID;
-  console.log({
-    cognitoUrl,
-    candidateUrl,
-    // token,
-    ClientId,
-  });
+
   if (!(cognitoUrl  || candidateUrl || ClientId)) {
     console.log("required variables are not available check the env file");
     return;

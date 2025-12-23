@@ -1,16 +1,18 @@
 import { User } from "../../mongoose/models/users.model.js";
-import { connect } from "../../mongoose/mongoose.js";
+import { connect, disconnect } from "../../mongoose/mongoose.js";
 import { writeFailureMessage, writeSuccessMessage } from "./main.js";
 
 export async function patchUserDirectlyDB({ body }) {
-  console.log("function patch User");
+  console.log("Starting to patch user*************");
   try {
-    console.log(body);
-    const phoneNumber = body.phoneNumber;
+    const { phoneNumber, ...updates } = body;
     await connect();
     const response = await User.findOneAndUpdate(
       { phoneNumber },
-      { $set: body }
+      { $set: updates },
+      {
+        new: true,
+      }
     );
     if (!response) {
       console.error(`Failed updatation for ${phoneNumber}`);
@@ -19,16 +21,13 @@ export async function patchUserDirectlyDB({ body }) {
       });
       return;
     }
-    console.log("User successfully patched : ", response);
+    console.log("User successfully patched : ", response._id);
     await writeSuccessMessage({
       message: `User -phoneNumber : ${phoneNumber}`,
     });
+    await disconnect();
   } catch (error) {
-    console.error(`Failed updatation for ${body.phoneNumber}`);
     console.log(error);
-    await writeFailureMessage({
-      message: `User Patch : Status: Failed, ${body.phoneNumber}`,
-    });
-    return;
+    await disconnect();
   }
 }

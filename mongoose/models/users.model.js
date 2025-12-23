@@ -221,35 +221,6 @@ const userSchema = new mongoose.Schema(
   }
 );
 
-/**
- * Pre-save middleware
- * Handles referral code generation and community management
- */
-// userSchema.pre("save", async function (next) {
-//   console.log("Saving user:", this);
-
-//   try {
-//     if (this.isModified("targetCountry") || this.isModified("targetJobRole")) {
-//       logger({ info: "Updating user's target country and job role" });
-//       const country = this.targetCountry?.name;
-//       const job = this.targetJobRole?.name;
-//       // Only proceed when both exist
-//       if (country && job) {
-//         const community = await findOrCreateCommunity(job, country);
-//         if (community) {
-//           // ensure membership (unique index will protect duplicates)
-//           await ensureMembership(this._id, community._id);
-//           // update the *in-memory* document so .save() persists it
-//           await addCommunityToUserDoc(this, community);
-//         }
-//       }
-//     }
-//     next();
-//   } catch (err) {
-//     next(err);
-//   }
-// });
-
 // 2) Query updates: after updates, fetch the updated user(s) and ensure community + membership
 // We use post hooks so the DB update has already applied and we can read the final values.
 userSchema.post(
@@ -262,15 +233,14 @@ userSchema.post(
         console.log("query not found");
         return;
       }
-
+      //check the existence of user
       const users = await mongoose.model("User").find(query);
-      console.log("users response from : ", users);
+      console.log(`${users.length} User found in db`);
       for (const user of users) {
-        console.log("user", user);
+        console.log("updating user with _id: ", user._id);
+        const { fullName, referralCode } = user;
         const country = user.targetCountry?.name;
         const job = user.targetJobRole?.name;
-        const fullName = user.fullName;
-        const referralCode = user.referralCode;
         logger({
           targetCountry: country,
           targetJobRole: job,
@@ -313,6 +283,7 @@ userSchema.post(
     } catch (err) {
       // log but do not throw (post hooks shouldn't break the original update)
       console.error("post-update community sync error:", err);
+      throw err;
     }
   }
 );

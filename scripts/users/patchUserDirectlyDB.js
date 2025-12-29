@@ -25,9 +25,9 @@ export async function patchUserDirectlyDB({ body }) {
     await writeSuccessMessage({
       message: `User -phoneNumber : ${phoneNumber}`,
     });
-    await disconnect();
+    // await disconnect();
   } catch (error) {
     console.log(error);
-    await disconnect();
+    // await disconnect();
   }
 }

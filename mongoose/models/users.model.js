@@ -1,8 +1,10 @@
 import mongoose, { Schema } from "mongoose";
+import { ensureMembership } from "../../helpers/ensureMembership.js";
+import { findOrCreateCommunity } from "../../helpers/findOrCreateCommunity.js";
+import { logger } from "../../helpers/logger.js";
+import { GENDER_OPTIONS } from "../../types/index.js";
 import { EducationDetailSchema } from "./education.model.js";
 import { ExperienceDetailSchema } from "./experience.model.js";
-import { GENDER_OPTIONS } from "../../types/index.js";
-import { logger } from "../../helpers/logger.js";
 
 const userSchema = new mongoose.Schema(
   {

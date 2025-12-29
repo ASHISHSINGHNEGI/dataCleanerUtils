@@ -1,8 +1,7 @@
-import { exit } from "node:process";
+import * as fs from "node:fs/promises";
 import { createUserInCognito } from "./createUserInCognito.js";
 import { patchUserDirectlyDB } from "./patchUserDirectlyDB.js";
 import userData from "./userslist.json" with { type: "json" };
-import * as fs from "node:fs/promises";
 const now = Date.now()
 export async function writeFailureMessage({ message }) {
   await fs.appendFile("./response/failedUserCreationLogs"+now+".txt", `${message}\n`, {
@@ -39,8 +38,16 @@ async function main() {
         ClientId,
       });
       const payload = {
-        phoneNumber: user.phoneNumber,
+        phoneNumber:user.phoneNumber,
         fullName: user.fullName,
+        targetCountry:{
+          name:user["targetCountry.name"],
+          id:user["targetCountry.name_id"]
+        },
+        targetJobRole:{
+          name:user["targetJobRole.name"],
+          id:user["targetJobRole._id"]
+        }
       };
       await patchUserDirectlyDB({ body: payload });
     } catch (error) {

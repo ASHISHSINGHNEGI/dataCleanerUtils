@@ -1,5 +1,5 @@
-import { logger } from "./logger";
-import { communityMembership } from "../mongoose/models/communityMembership.model";
+import { logger } from "./logger.js";
+import { communityMembership } from "../mongoose/models/communityMembership.model.js";
 
 export async function ensureMembership(userId, communityId) {
   logger({ message: "Ensuring membership", userId, communityId });

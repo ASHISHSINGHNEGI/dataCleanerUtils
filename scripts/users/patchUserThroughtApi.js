@@ -17,7 +17,7 @@ async function patchUserThroughtApi({ body }) {
     });
 
     if (!response.ok) {
-      console.error(`${response.statusText}, ${response.status}`);
+       console.log(`${response.statusText}, ${response.status}`);
       await writeFailureMessage({
         message: `User Patch : Status: Failed, ${response.status}`,
       });

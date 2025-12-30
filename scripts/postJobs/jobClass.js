@@ -33,7 +33,6 @@ export class Job {
         });
       }
     }
-    console.log({ "getJobData length": jobData.length });
     const indexOfreqJob = await jobData.findIndex(
       (job) => jobId === job._id.toString()
     );
@@ -53,7 +52,7 @@ export class Job {
     //   jobFromDB: JSON.stringify(jobFromDB, null, 2),
     // });
     const data = rawData;
-    console.log("formating the job data");
+    console.log("formating the job data for ", data._id);
     // Convert to ObjectId synchronously
     // const userIdFromRawData = data.userId;
     // const userIdFromJobFromDb = jobFromDB.userId;
@@ -65,71 +64,74 @@ export class Job {
     // });
 
     //************************************ */
-    const userId = data.userId
-      ? this.convertToMongoObjId(data.userId)
-      : this.convertToMongoObjId(jobFromDB.userId);
+    // const userId = data.userId
+    //   ? this.convertToMongoObjId(data.userId)
+    //   : this.convertToMongoObjId(jobFromDB.userId);
     //********************************** */
-    let jobCategory;
-    if (data.jobCategory) {
-      jobCategory = {
-        id: this.convertToMongoObjId(data.jobCategory.id),
-        name: data.jobCategory.name,
-      };
-    } else if (jobFromDB.jobCategory) {
-      jobCategory = {
-        id: this.convertToMongoObjId(jobFromDB.jobCategory.id),
-        name: jobFromDB.jobCategory.name,
-      };
-    } else {
-      console.log(
-        `jobCatetory details are not found anywhere for ${jobFromDB._id}`
-      );
-      await writeFailureMessage({
-        message: `jobCatetory details are not found anywhere`,
-        job: jobFromDB._id,
-      });
-    }
+    // let jobCategory;
+    // if (data.jobCategory) {
+    //   jobCategory = {
+    //     id: this.convertToMongoObjId(data.jobCategory.id),
+    //     name: data.jobCategory.name,
+    //   };
+    // } else if (jobFromDB.jobCategory) {
+    //   jobCategory = {
+    //     id: this.convertToMongoObjId(jobFromDB.jobCategory.id),
+    //     name: jobFromDB.jobCategory.name,
+    //   };
+    // } else {
+    //   console.log(
+    //     `jobCatetory details are not found anywhere for ${jobFromDB._id}`
+    //   );
+    //   await writeFailureMessage({
+    //     message: `jobCatetory details are not found anywhere`,
+    //     job: jobFromDB._id,
+    //   });
+    // }
     //******************************************* */
-    let jobRole;
-    if (data.jobRole) {
-      jobRole = {
-        id: this.convertToMongoObjId(data.jobRole.id),
-        name: data.jobRole.name,
-      };
-    } else if (jobFromDB.jobRole) {
-      jobRole = {
-        id: this.convertToMongoObjId(jobFromDB.jobRole.id),
-        name: jobFromDB.jobRole.name,
-      };
-    } else {
-      console.log(
-        `jobRole details are not found anywhere for ${jobFromDB._id}`
-      );
-      await writeFailureMessage({
-        message: `jobRole details are not found anywhere`,
-        job: jobFromDB._id,
-      });
-    }
+    // let jobRole;
+    // if (data.jobRole) {
+    //   jobRole = {
+    //     id: this.convertToMongoObjId(data.jobRole.id),
+    //     name: data.jobRole.name,
+    //   };
+    // } else if (jobFromDB.jobRole) {
+    //   jobRole = {
+    //     id: this.convertToMongoObjId(jobFromDB.jobRole.id),
+    //     name: jobFromDB.jobRole.name,
+    //   };
+    // } else {
+    //   console.log(
+    //     `jobRole details are not found anywhere for ${jobFromDB._id}`
+    //   );
+    //   await writeFailureMessage({
+    //     message: `jobRole details are not found anywhere`,
+    //     job: jobFromDB._id,
+    //   });
+    // }
     //************************************************** */
     // console.log({ "type of user Id": typeof userId });
     const formattedJob = {
-      ...data,
-      userId,
-      jobCategory,
-      jobRole,
+      // ...data,
+      _id: data._id,
+      // userId,
+      // jobCategory,
+      // jobRole,
       // company: {
       //   name: data.company?.name,
       // },
-      mandatoryQuestions: ["Do you have a passport?", "Do you have a resume?"],
-      requiredDocuments: [
-        {
-          name: "resume",
-          docId: new Types.ObjectId("692c527c28dc81e767fff278"), // Hardcoded ID
-        },
-      ],
+      // mandatoryQuestions: ["Do you have a passport?", "Do you have a resume?"],
+      // requiredDocuments: [
+      //   {
+      //     name: "resume",
+      //     docId: new Types.ObjectId("692c527c28dc81e767fff278"), // Hardcoded ID
+      //   },
+      // ],
+      positions: data.positions,
+      positionFilled: data.positionFilled,
     };
     // console.log({ formattedJob });
-    console.log("formattting successful for job id");
+    console.log("formattting successful for job id: ", data._id);
     return formattedJob;
   }
 

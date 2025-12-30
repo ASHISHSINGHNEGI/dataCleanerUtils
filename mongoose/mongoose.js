@@ -38,7 +38,7 @@ async function connect() {
   }
 
   // const dbName = "kovon-nurse-preprod";
-  const dbName = "kovon-dev-nurse";
+  const dbName = process.env.NURSE_DB_NAME;
   if (!dbName) {
     throw new Error("Db name Invalid");
   }

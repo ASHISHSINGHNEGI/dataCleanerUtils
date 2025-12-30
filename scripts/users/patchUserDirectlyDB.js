@@ -3,10 +3,10 @@ import { connect, disconnect } from "../../mongoose/mongoose.js";
 import { writeFailureMessage, writeSuccessMessage } from "./main.js";
 
 export async function patchUserDirectlyDB({ body }) {
-  console.log("Starting to patch user*************");
+  console.log("+*******************Starting to patch user*************");
   try {
     const { phoneNumber, ...updates } = body;
-    await connect();
+    // await connect();
     const response = await User.findOneAndUpdate(
       { phoneNumber },
       { $set: updates },
@@ -15,7 +15,8 @@ export async function patchUserDirectlyDB({ body }) {
       }
     );
     if (!response) {
-      console.error(`Failed updatation for ${phoneNumber}`);
+      console.log(response);
+      console.log(`Failed updatation for ${phoneNumber}`);
       await writeFailureMessage({
         message: `User Patch : Status: Failed, ${phoneNumber}`,
       });

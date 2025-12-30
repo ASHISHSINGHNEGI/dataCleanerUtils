@@ -1,11 +1,12 @@
-import jobsRawData from "../../data/testJobList.json" with { type: "json" };
+import jobsRawData from "../../../kovon/resourse/swayamSendData/convertedDataOfJObsCsv.json" with { type: "json" };
 import * as fs from "node:fs/promises";
 import { Job } from "./jobClass.js";
 import { getAllJobs } from "./getAllJobs.js";
+const now = Date.now()
 
 async function postJobs() {
   const url =
-    process.env.stage === "preprod"
+    process.env.STAGE === "preprod"
       ? process.env.CANDIDATE_URL_PROD
       : process.env.CANDIDATE_URL_DEV;
   console.log("api url : ", url);
@@ -17,7 +18,7 @@ async function postJobs() {
   //fetching all the jobs temparary solution
   const jobObj = new Job({ baseUrl: url });
   const jobsPool = await getAllJobs({ url });
-
+  //
   const jobPromise = jobsRawData.map(async (rawjob) => {
     try {
       let jobFromDB = null;
@@ -50,8 +51,8 @@ async function postJobs() {
 export async function writeFailureMessage({ job, message }) {
   // Check if job exists (for generic catch errors) and log title, otherwise just log message
   const title = job ? job.title : "Unknown Job (Pre-Fetch Error)";
-  await fs.writeFile(
-    "./response/error.txt",
+  await fs.appendFile(
+    "./response/jobPostingError.txt",
     `FAILURE: Job Title: ${title}. Error: ${message}\n`,
     { flag: "a" }
   );
@@ -60,7 +61,7 @@ export async function writeFailureMessage({ job, message }) {
 export async function writeSuccessMessage({ job }) {
   // Assuming result object has the _id property
   await fs.appendFile(
-    "./response/success.txt",
+    "./response/jobPostingSuccess.txt",
     `SUCCESS: ${job.title}, ID: ${job._id}\n`,
     { flag: "a" }
   );

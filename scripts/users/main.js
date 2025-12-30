@@ -2,6 +2,7 @@ import * as fs from "node:fs/promises";
 import { createUserInCognito } from "./createUserInCognito.js";
 import { patchUserDirectlyDB } from "./patchUserDirectlyDB.js";
 import userData from "./userslist.json" with { type: "json" };
+import { connect } from "../../mongoose/mongoose.js";
 const now = Date.now()
 export async function writeFailureMessage({ message }) {
   await fs.appendFile("./response/failedUserCreationLogs"+now+".txt", `${message}\n`, {
@@ -24,6 +25,7 @@ async function main() {
   const cognitoUrl = process.env.COGNITO_URL;
   const candidateUrl = process.env.CANDIDATE_URL;
   const ClientId = process.env.CLIENT_ID;
+    await connect();
 
   if (!(cognitoUrl  || candidateUrl || ClientId)) {
     console.log("required variables are not available check the env file");

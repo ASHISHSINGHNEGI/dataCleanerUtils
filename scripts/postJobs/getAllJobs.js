@@ -1,6 +1,7 @@
 import { writeFailureMessage } from "./postJobs.js";
 
 export async function getAllJobs({ url }) {
+  console.log("starting to fetch all jobs from db");
   try {
     const response = await fetch(`${url}/jobs`, {
       headers: {
@@ -9,6 +10,7 @@ export async function getAllJobs({ url }) {
       },
     });
     const result = await response.json();
+    console.log("jobpool length : ", result.data.length);
     return result.data;
   } catch (error) {
     console.log(error);

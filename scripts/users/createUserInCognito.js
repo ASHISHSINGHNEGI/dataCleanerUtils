@@ -30,12 +30,13 @@ export async function createUserInCognito({
     } catch (error) {
       //handling the user already exist exception from cognito
       if (error.name === "UsernameExistsException") {
-        console.error("User already exists(cognito)");
+        console.log("User already exists(cognito)");
         await writeSuccessMessage({
           message: `cognito- status:${error.message} phoneNUmber : ${phoneNumber}`,
         });
         return;
       }
+      console.log(phoneNumber + " " + error);
       throw error;
     }
     console.log("User created in cognito successfully");
@@ -44,7 +45,7 @@ export async function createUserInCognito({
       message: `cognito- status: success - phoneNUmber : ${phoneNumber}`,
     });
   } catch (error) {
-    // console.error(`Posting Error for ${phoneNumber}:`, error);
+    //  console.log(`Posting Error for ${phoneNumber}:`, error);
     console.log("keys of error : ", Object.entries(error));
     throw new Error(
       `Cognito -Status: ${error.message} -phonenumber: ${phoneNumber}`

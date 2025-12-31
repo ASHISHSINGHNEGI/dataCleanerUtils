@@ -194,7 +194,7 @@ export class Job {
         console.error(`${response.statusText}, ${response.status}`);
         await writeFailureMessage({
           job: data,
-          message: `Patch Status: failed for job ${rest.title}`,
+          message: `Patch Status: failed for job ${_id} ${rest.title}`,
         });
         return;
       }

@@ -10,6 +10,7 @@ export async function getAllJobs({ url }) {
       },
     });
     const result = await response.json();
+    console.log(result);
     console.log("jobpool length : ", result.data.length);
     return result.data;
   } catch (error) {

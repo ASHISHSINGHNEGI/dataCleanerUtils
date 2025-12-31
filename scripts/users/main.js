@@ -1,7 +1,7 @@
 import * as fs from "node:fs/promises";
 import { createUserInCognito } from "./createUserInCognito.js";
 import { patchUserDirectlyDB } from "./patchUserDirectlyDB.js";
-import userData from "./userslist.json" with { type: "json" };
+import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_30dec25.json" with { type: "json" };
 import { connect } from "../../mongoose/mongoose.js";
 const now = Date.now()
 export async function writeFailureMessage({ message }) {

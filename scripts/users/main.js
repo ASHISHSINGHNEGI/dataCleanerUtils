@@ -1,6 +1,6 @@
 import * as fs from "node:fs/promises";
 // import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_2Jan25.json";
-import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_5Jan25.json" with { type: "json" };
+import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_8Jan25_6pm(updated).json" with { type: "json" };
 import { connect } from "../../mongoose/mongoose.js";
 import { createUserInCognito } from "./createUserInCognito.js";
 import { patchUserDirectlyDB } from "./patchUserDirectlyDB.js";

@@ -1,5 +1,5 @@
 import mongoose, { Schema } from "mongoose";
-import { JOB_APPLICATION_STATUS } from "../../types";
+import { DOCUMENT_LIST, JOB_APPLICATION_STATUS } from "../../types/index.js";
 // import { DOCUMENT_LIST, JOB_APPLICATION_STATUS, JOB_TYPES } from "@/types";
 
 const AppliedJobsSchema = new Schema(
@@ -246,11 +246,10 @@ AppliedJobsSchema.index({ isActive: 1, isArchived: 1 });
 // MIDDLEWARE
 // ------------------
 // Update lastStatusUpdate when applicationStatus changes
-AppliedJobsSchema.pre("save", function (next) {
+AppliedJobsSchema.pre("save", function () {
   if (this.isModified("applicationStatus")) {
     this.lastStatusUpdate = new Date();
   }
-  next();
 });
 
 // ------------------

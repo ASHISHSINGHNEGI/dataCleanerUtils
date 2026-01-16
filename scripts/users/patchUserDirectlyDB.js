@@ -1,5 +1,4 @@
 import { User } from "../../mongoose/models/users.model.js";
-import { connect, disconnect } from "../../mongoose/mongoose.js";
 import { writeFailureMessage, writeSuccessMessage } from "./main.js";
 
 export async function patchUserDirectlyDB({ body }) {

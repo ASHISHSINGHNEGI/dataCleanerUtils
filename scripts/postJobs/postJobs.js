@@ -1,7 +1,7 @@
-import jobsRawData from "../../../kovon/resourse/swayamSendData/convertedDataOfJObsCsv.json" with { type: "json" };
 import * as fs from "node:fs/promises";
-import { Job } from "./jobClass.js";
+import jobsRawData from "./jobpost1.json" with { type: "json" };
 import { getAllJobs } from "./getAllJobs.js";
+import { Job } from "./jobClass.js";
 const now = Date.now()
 
 async function postJobs() {
@@ -17,27 +17,28 @@ async function postJobs() {
 
   //fetching all the jobs temparary solution
   const jobObj = new Job({ baseUrl: url });
-  const jobsPool = await getAllJobs({ url });
+  // const jobsPool = await getAllJobs({ url });
   //
   const jobPromise = jobsRawData.map(async (rawjob) => {
     try {
-      let jobFromDB = null;
-      if (rawjob._id) {
-        jobFromDB = await jobObj.isJobExist({
-          jobsPool,
-          jobId: rawjob._id,
-        });
-      }
+      // let jobFromDB = null;
+      // if (rawjob._id) {
+      //   jobFromDB = await jobObj.isJobExist({
+      //     jobsPool,
+      //     jobId: rawjob._id,
+      //   });
+      // }
 
-      if (jobFromDB !== null) {
-        // console.log({jobFromDB})
-        const data = await jobObj.formatJob({ jobFromDB, rawData: rawjob });
-        // console.log("dta before calling patch: ",data)
-        await jobObj.patch({ data });
-      } else {
-        const data = await jobObj.formatJob({ rawData: rawjob });
-        await jobObj.post({ data });
-      }
+      // if (jobFromDB !== null) {
+      //   // console.log({jobFromDB})
+      //   const data = await jobObj.formatJob({ jobFromDB, rawData: rawjob });
+      //   // console.log("dta before calling patch: ",data)
+      //   await jobObj.patch({ data });
+      // } else {
+        // const data = await jobObj.formatJob({ rawData: rawjob });
+        console.log({rawjob})
+        await jobObj.post({ rawjob });
+      // }
     } catch (error) {
       //   console.error(`Posting Error for ${job.title}:`, error.message);
       //   await writeFailureMessage({ job: job, message: error.message });

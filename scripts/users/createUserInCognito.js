@@ -2,12 +2,11 @@ import {
   CognitoIdentityProviderClient,
   SignUpCommand,
 } from "@aws-sdk/client-cognito-identity-provider";
-import { writeFailureMessage, writeSuccessMessage } from "./main.js";
+import { writeSuccessMessage } from "./main.js";
 
 //this function will call the cognito and and patch the user to db
 export async function createUserInCognito({
   phoneNumber,
-  cognitoUrl,
   ClientId,
 }) {
   try {

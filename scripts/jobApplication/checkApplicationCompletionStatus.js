@@ -1,12 +1,11 @@
-
 export function checkApplicationCompletionStatus({
   applicationDetails,
   jobDetails,
 }) {
-  console.log({
-    message: "Starting application completion check",
-    applicationDetails
-  });
+  //   console.log({
+  //     message: "Starting application completion check",
+  //     applicationDetails
+  //   });
 
   /* ---------------------------------------------
      1️⃣ Check Mandatory Questions
@@ -24,10 +23,10 @@ export function checkApplicationCompletionStatus({
       const requiredQuestion = jobDetails.mandatoryQuestions[i];
       let found = false;
 
-      console.log({
-        message: "Checking required question",
-        requiredQuestion,
-      });
+      //   console.log({
+      //     message: "Checking required question",
+      //     requiredQuestion,
+      //   });
 
       for (let j = 0; j < applicationDetails.mandatoryQuestions.length; j++) {
         const userQuestion = applicationDetails.mandatoryQuestions[j];
@@ -37,11 +36,11 @@ export function checkApplicationCompletionStatus({
           typeof userQuestion.answer === "string" &&
           userQuestion.answer.trim() !== ""
         ) {
-          console.log({
-            message: "Mandatory question answered",
-            question: userQuestion.question,
-            answer: userQuestion.answer,
-          });
+          //   console.log({
+          //     message: "Mandatory question answered",
+          //     question: userQuestion.question,
+          //     answer: userQuestion.answer,
+          //   });
 
           found = true;
           break;
@@ -106,9 +105,9 @@ export function checkApplicationCompletionStatus({
     }
   }
 
-  console.log({
-    message: "Application is complete",
-  });
+  //   console.log({
+  //     message: "Application is complete",
+  //   });
 
   return true;
 }

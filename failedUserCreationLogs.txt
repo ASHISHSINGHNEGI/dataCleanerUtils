@@ -1,1 +1,5 @@
 Duplicate application: user 694269ba685335a27512ea48 application for jobid 6965ec8f656a21b8ec253cf8
+function - validateJobAndUser ,User not found 694269ba685335a27512ea47
+user- 694269ba685335a27512ea47 not found!! 
+Duplicate application: user 694269ba685335a27512ea48 application for jobid 6965ec8f656a21b8ec253cf8
+function - validateJobAndUser ,User not found 694269ba685335a27512ea47

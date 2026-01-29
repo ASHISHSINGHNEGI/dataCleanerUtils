@@ -1,10 +1,9 @@
+import { Types } from "mongoose";
 import * as fs from "node:fs/promises";
-// import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_2Jan25.json";
-import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPushpanjali_15Jan_12.json"  with { type: "json" };
+import userData from "../../../kovon/resourse/prachiUserListUpdated/userListUpdatesByPrachi_28Jan_1.json" with { type: "json" };
 import { connect } from "../../mongoose/mongoose.js";
 import { createUserInCognito } from "./createUserInCognito.js";
 import { patchUserDirectlyDB } from "./patchUserDirectlyDB.js";
-import { Types } from "mongoose";
 const now = Date.now();
 export async function writeFailureMessage({ message }) {
   await fs.appendFile(

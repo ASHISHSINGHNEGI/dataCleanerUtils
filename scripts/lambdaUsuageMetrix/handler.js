@@ -67,7 +67,7 @@ async function getInvocationsForFunction(functionName, startTime, endTime) {
     try {
         const endTime = new Date();
         const startTime = new Date();
-        startTime.setMonth(endTime.getMonth() - 3);
+        startTime.setMonth(endTime.getMonth() - 6);
 
         console.log(
             `Fetching invocation counts from ${startTime.toISOString()} to ${endTime.toISOString()}`

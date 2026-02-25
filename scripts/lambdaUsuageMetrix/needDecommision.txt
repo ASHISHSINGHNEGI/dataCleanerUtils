@@ -76,6 +76,6 @@ kovon-nurse-candidate-dev-patchComment	1
 kovon-nurse-candidate-dev-deleteDocumentMapper	0
 kovon-nurse-candidate-dev-getDocumentMapper	0
 kovon-nurse-candidate-dev-patchTasksData	0
-kovon-nurse-candidate-dev-updateDocumentMapper	0
+kovon-nurse-candidate-dev-updateDocumentMapper	0-
 kovon-nurse-candidate-dev-updateRegisteredEvent	0
-kovon-nurse-candidate-dev-updateTag	0
+kovon-nurse-candidate-dev-updateTag	0 -
